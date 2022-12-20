@@ -33,6 +33,7 @@
 >>
 
 ## 2020
+
 > #### COLING, 2020: [Multimodal topic-enriched auxiliary learning for depression detection](paper/2Multimodal topic-enriched auxiliary learning for depression detection.pdf)
 >
 >> Minghui An, Jingjing Wang, Shoushan Li, Guodong Zhou
@@ -42,7 +43,6 @@
 >
 >> Hu, Pengwei and Lin, Chenhao and Su, Hui and Li, Shaochun and Han, Xue and Zhang, Yuan and Mei, Jing
 >>
-
 
 ## 2019
 
