@@ -20,6 +20,11 @@
 >> Ghosh, Soumitra and Ekbal, Asif and Bhattacharyya, Pushpak
 >>
 
+> #### Sustainability, 2022: [Design and Implementation of Attention Depression Detection Model Based on Multimodal Analysis](paper/Design and Implementation of Attention Depression Detection.pdf)
+>
+>> Park, Junhee and Moon, Nammee
+>>
+
 ## 2021
 
 > #### AAAI, 2021: [Screening for Depressed Individuals by Using Multimodal Social Media Data](paper/1Screening for Depressed Individuals by Using Multimodal Social Media Data.pdf)
