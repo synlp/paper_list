@@ -3,9 +3,7 @@
 
 Yan Song, Shuming Shi, Jing Li, and Haisong Zhang. "Directional skip-gram: Explicitly distinguishing left and right context for word embeddings." In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 175-180. New Orleans, Louisiana. 2018.
 
-Zhihong Chen, Yan Song, Tsung-Hui Chang, and Xiang Wan. "Generating Radiology Reports via Memory-driven Transformer." In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 1439-1449. Online. 2020.
 
-Yuanhe Tian, Wang Shen, Yan Song, Fei Xia, Min He, and Kenli Li. "Improving biomedical named entity recognition with syntactic information." BMC bioinformatics 21, no. 1 (2020): 1-17.
 
 Yuanhe Tian, Guimin Chen, Yan Song, and Xiang Wan. "Dependency-driven relation extraction with attentive graph convolutional networks." In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pp. 4458-4471. Online. 2021.
 
@@ -190,8 +188,26 @@ Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computa
 > ACL: [Improving Chinese Word Segmentation with Wordhood Memory Networks](./paper/2020.acl-main.734.pdf)
 >> Yuanhe Tian, Yan Song, Fei Xia, Tong Zhang, Yonggang Wang  
 >> SIGHAN2005, CTB6
->
+
 
 > EMNLP: [ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations](./paper/1911.00720.pdf) 
 >> Shizhe Diao, Jiaxin Bai, Yan Song, Tong Zhang, and Yonggang Wang.
 >>XNLI, LCQMC
+
+> EMNLP: [Generating Radiology Reports via Memory-driven Transformer." ](./paper/2020.emnlp-main.112.pdf)
+>> Zhihong Chen, Yan Song, Tsung-Hui Chang, and Xiang Wan
+>>MIMIC-CXR
+
+> BMC bioinformatics: [Improving biomedical named entity recognition with syntactic information](./paper/s12859-020-03834-6.pdf)
+>> Yuanhe Tian, Wang Shen, Yan Song, Fei Xia, Min He, and Kenli Li 
+>> BioKMNER
+
+
+> COLING: [Summarizing Medical Conversations via Identifying Important Utterances](./paper/2020.coling-main.63.pdf)
+>> Yan Song, Yuanhe Tian, Nan Wang and Fei Xia
+>>
+
+
+> COLING: [Joint Chinese Word Segmentation and Part-of-speech Tagging via Multi-channel Attention of Character N-grams](./paper/2020.coling-main.187.pdf)
+>> Yuanhe Tian, Yan Song and Fei Xia
+>> Universal Dependencies
