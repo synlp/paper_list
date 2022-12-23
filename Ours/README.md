@@ -3,7 +3,6 @@
 
 Yan Song, Shuming Shi, Jing Li, and Haisong Zhang. "Directional skip-gram: Explicitly distinguishing left and right context for word embeddings." In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 175-180. New Orleans, Louisiana. 2018.
 
-
 Shizhe Diao, Jiaxin Bai, Yan Song, Tong Zhang, and Yonggang Wang. "ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations." In Findings of the Association for Computational Linguistics: EMNLP 2020, pp. 4729-4740. Online. 2020.
 
 Zhihong Chen, Yan Song, Tsung-Hui Chang, and Xiang Wan. "Generating Radiology Reports via Memory-driven Transformer." In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 1439-1449. Online. 2020.
@@ -71,8 +70,6 @@ Yuyang Nie, Yuanhe Tian, Yan Song, Xiang Ao and Xiang Wan. "Improving Named Enti
 Zhihong Chen, Yan Song, Tsung-Hui Chang and Xiang Wan. "Generating Radiology Reports via Memory-driven Transformer." In EMNLP-2020, pp. 1439-1449. Online. 2020.
 
 Shizhe Diao, Jiaxin Bai, Yan Song, Tong Zhang, Yonggang Wang. "ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations." In Findings of EMNLP-2020, pp. 4729-4740. Online. 2020.
-
-Yuanhe Tian, Yan Song, Fei Xia, Tong Zhang and Yonggang Wang.  "Improving Chinese Word Segmentation with Wordhood Memory Networks." In ACL-2020, pp. 8274-8285. Online. 2020.
 
 Yuanhe Tian, Yan Song, Xiang Ao, Fei Xia, Xiaojun Quan, Tong Zhang and Yonggang Wang. "Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge." In ACL-2020, pp. 8286-8296. Online. 2020.
 
