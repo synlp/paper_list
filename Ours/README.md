@@ -3,8 +3,6 @@
 
 Yan Song, Shuming Shi, Jing Li, and Haisong Zhang. "Directional skip-gram: Explicitly distinguishing left and right context for word embeddings." In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 175-180. New Orleans, Louisiana. 2018.
 
-Shizhe Diao, Jiaxin Bai, Yan Song, Tong Zhang, and Yonggang Wang. "ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations." In Findings of the Association for Computational Linguistics: EMNLP 2020, pp. 4729-4740. Online. 2020.
-
 Zhihong Chen, Yan Song, Tsung-Hui Chang, and Xiang Wan. "Generating Radiology Reports via Memory-driven Transformer." In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 1439-1449. Online. 2020.
 
 Yuanhe Tian, Wang Shen, Yan Song, Fei Xia, Min He, and Kenli Li. "Improving biomedical named entity recognition with syntactic information." BMC bioinformatics 21, no. 1 (2020): 1-17.
@@ -193,3 +191,7 @@ Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computa
 >> Yuanhe Tian, Yan Song, Fei Xia, Tong Zhang, Yonggang Wang  
 >> SIGHAN2005, CTB6
 >
+
+> EMNLP: [ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations](./paper/1911.00720.pdf) 
+>> Shizhe Diao, Jiaxin Bai, Yan Song, Tong Zhang, and Yonggang Wang.
+>>XNLI, LCQMC
