@@ -187,29 +187,35 @@ Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computa
 
 > ACL: [Improving Chinese Word Segmentation with Wordhood Memory Networks](./paper/2020.acl-main.734.pdf)
 >> Yuanhe Tian, Yan Song, Fei Xia, Tong Zhang, Yonggang Wang  
+>> 
 >> SIGHAN2005, CTB6
 
 
 > EMNLP: [ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations](./paper/1911.00720.pdf) 
 >> Shizhe Diao, Jiaxin Bai, Yan Song, Tong Zhang, and Yonggang Wang 
->> XNLI, LCQMC
+>> 
+>> XNLI, LCQMC 
 >
 
-> EMNLP: [Generating Radiology Reports via Memory-driven Transformer." ](./paper/2020.emnlp-main.112.pdf)
+> EMNLP: [Generating Radiology Reports via Memory-driven Transformer](./paper/2020.emnlp-main.112.pdf)
 >> Zhihong Chen, Yan Song, Tsung-Hui Chang, and Xiang Wan 
->> MIMIC-CXR
+>> 
+>> MIMIC-CXR 
 >
 
 > BMC bioinformatics: [Improving biomedical named entity recognition with syntactic information](./paper/s12859-020-03834-6.pdf)
 >> Yuanhe Tian, Wang Shen, Yan Song, Fei Xia, Min He, and Kenli Li 
+>> 
 >> BioKMNER
 
 
 > COLING: [Summarizing Medical Conversations via Identifying Important Utterances](./paper/2020.coling-main.63.pdf)
 >> Yan Song, Yuanhe Tian, Nan Wang and Fei Xia 
+>> 
 >>
 
 
 > COLING: [Joint Chinese Word Segmentation and Part-of-speech Tagging via Multi-channel Attention of Character N-grams](./paper/2020.coling-main.187.pdf)
 >> Yuanhe Tian, Yan Song and Fei Xia 
+>> 
 >> Universal Dependencies
