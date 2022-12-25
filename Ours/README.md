@@ -49,19 +49,11 @@ Yuanhe Tian, Guimin Chen, Yan Song. "Enhancing Aspect-level Sentiment Analysis w
 
 
 
-Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song and Bo Dai. "Named Entity Recognition for Social Media Texts with Semantic Augmentation." In EMNLP-2020, pp. 1383–1391. Online. 2020.
 
-Yuyang Nie, Yuanhe Tian, Yan Song, Xiang Ao and Xiang Wan. "Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information." In Findings of EMNLP-2020, pp. 4231–4245. Online. 2020.
 
-Zhihong Chen, Yan Song, Tsung-Hui Chang and Xiang Wan. "Generating Radiology Reports via Memory-driven Transformer." In EMNLP-2020, pp. 1439-1449. Online. 2020.
 
-Shizhe Diao, Jiaxin Bai, Yan Song, Tong Zhang, Yonggang Wang. "ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations." In Findings of EMNLP-2020, pp. 4729-4740. Online. 2020.
 
-Yuanhe Tian, Yan Song, Xiang Ao, Fei Xia, Xiaojun Quan, Tong Zhang and Yonggang Wang. "Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge." In ACL-2020, pp. 8286-8296. Online. 2020.
 
-Kun Li, Chengbo Chen, Xiaojun Quan, Qing Ling and Yan Song. "Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation." In ACL-2020, pp. 7056–7066. Online. 2020.
-
-Kun Xu, Linfeng Song, Yansong Feng, Yan Song, Dong Yu.  "Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment." In AAAI, 2020, Volume 34 (05), pp. 9354-9361.
 
 Xintong Yu, Hongming Zhang, Yangqiu Song, Yan Song, Changshui Zhang. "What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues." In EMNLP-2019, pp. 5123-5132. Hong Kong, China. 2019.
 
@@ -69,7 +61,6 @@ Ling Luo, Xiang Ao, Yan Song, Feiyang Pan, Min Yang, Qing He.  "Reading Like HER
 
 Hongming Zhang, Jiaxin Bai, Yan Song, Kun Xu, Changlong Yu, Yangqiu Song, Wilfred Ng, Dong Yu. "Multiplex Word Embeddings for Selectional Preference Acquisition." In EMNLP-2019, pp. 5247-5256. Hong Kong, China. 2019.
 
-Shizhe Diao, Jiaxin Bai, Yan Song, Tong Zhang, Yonggang Wang.  "ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations." arXiv preprint:1911.00720.
 
 Miaofeng Liu, Yan Song, Hongbin Zou, Tong Zhang. "Reinforced Training Data Selection for Domain Adaptation." In ACL-2019, pp. 1957-1968. Florence, Italy. 2019.
 
@@ -173,6 +164,60 @@ Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computa
 
 # Done
 
+## 2022
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+## 2021
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
 ## 2020  
 
 > ACL: [Improving Chinese Word Segmentation with Wordhood Memory Networks](./paper/2020.acl-main.734.pdf)
@@ -185,13 +230,13 @@ Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computa
 >> Shizhe Diao, Jiaxin Bai, Yan Song, Tong Zhang, and Yonggang Wang 
 >> 
 >> XNLI, LCQMC 
->
+
 
 > EMNLP: [Generating Radiology Reports via Memory-driven Transformer](./paper/2020.emnlp-main.112.pdf)
 >> Zhihong Chen, Yan Song, Tsung-Hui Chang, and Xiang Wan 
 >> 
 >> MIMIC-CXR 
->
+
 
 > BMC bioinformatics: [Improving biomedical named entity recognition with syntactic information](./paper/s12859-020-03834-6.pdf)
 >> Yuanhe Tian, Wang Shen, Yan Song, Fei Xia, Min He, and Kenli Li 
@@ -235,4 +280,57 @@ Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computa
 >> Yuanhe Tian, Yan Song, Fei Xia and Tong Zhang
 >>
 >> Penn Treebank
+
+> EMNLP: [Named Entity Recognition for Social Media Texts with Semantic Augmentation](./paper/2020.emnlp-main.107.pdf)
+>> Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song and Bo Dai
 >>
+>> WNUT 2016 NER, WNUT 2017, Weibo NER
+
+
+> EMNLP: [Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information](./paper/2020.findings-emnlp.378.pdf)
+>> Yuyang Nie, Yuanhe Tian, Yan Song, Xiang Ao and Xiang Wan
+>>
+>> OntoNotes 4.0, OntoNotes 5.0, Resume NER, WNUT 2016 NER, WNUT 2017, Weibo NER
+
+
+> ACL: [Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge](./paper/2020.acl-main.735.pdf)
+>> Yuanhe Tian, Yan Song, Xiang Ao, Fei Xia, Xiaojun Quan, Tong Zhang and Yonggang Wang
+>>
+>> CTB5, CTB6, CTB7, CTB9, the Chinese part of Universal Dependencies
+
+> ACL: [Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation](./paper/2020.acl-main.631.pdf)
+>> Kun Li, Chengbo Chen, Xiaojun Quan, Qing Ling and Yan Song
+>>
+>> the Laptop from SemEval 2014 Task 4, the Restaurants from SemEval 2016 Task 5
+
+> AAAI: [Coordinated Reasoning for Cross-Lingual Knowledge Graph Alignment](./paper/2001.08728v1.pdf)
+>> Kun Xu, Linfeng Song, Yansong Feng, Yan Song, Dong Yu
+>>
+>> DBP15K
+
+## 2019
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
