@@ -45,19 +45,9 @@ Yuanhe Tian, Guimin Chen, Yan Song. "Aspect-based Sentiment Analysis with Type-a
 
 Yuanhe Tian, Guimin Chen, Yan Song. "Enhancing Aspect-level Sentiment Analysis with Word Dependencies." In EACL-2021, pp. 3726-3739. Online. 2021.
 
-Yan Song, Yuanhe Tian, Nan Wang and Fei Xia. "Summarizing Medical Conversations via Identifying Important Utterances." In COLING-2020, pp. 717-729. Barcelona, Spain (Online). 2020.
 
-Yuanhe Tian, Yan Song and Fei Xia. "Joint Chinese Word Segmentation and Part-of-speech Tagging via Multi-channel Attention of Character N-grams." In COLING-2020, pp. 2073-2084. Barcelona, Spain (Online). 2020.
 
-Guimin Chen, Yuanhe Tian and Yan Song. "Joint Aspect Extraction and Sentiment Analysis with Directional Graph Convolutional Networks." In COLING-2020, pp. 272-279. Barcelona, Spain (Online). 2020.
 
-Jianfeng Liu, Ling Luo, Xiang Ao, Yan Song, Haoran Xu and Jian Ye. "Meet Changes with Constancy: Learning Invariance in Multi-Source Translation." In COLING-2020, pp. 1122-1132. Barcelona, Spain (Online). 2020.
-
-Yuanhe Tian, Wang Shen, Yan Song, Fei Xia, Min He and Kenli Li. "Improving Biomedical Named Entity Recognition with Syntactic Information." In BMC Bioinformatics, 2020, Volume 2 (1), pp. 1-17.
-
-Yuanhe Tian, Yan Song and Fei Xia. "Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks." In EMNLP-2020, pp. 6037–6044. Online. 2020.
-
-Yuanhe Tian, Yan Song, Fei Xia and Tong Zhang. "Improving Constituency Parsing with Span Attention." In Findings of EMNLP-2020, pp. 1691-1703. Online. 2020.
 
 Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song and Bo Dai. "Named Entity Recognition for Social Media Texts with Semantic Augmentation." In EMNLP-2020, pp. 1383–1391. Online. 2020.
 
@@ -219,3 +209,30 @@ Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computa
 >> Yuanhe Tian, Yan Song and Fei Xia 
 >> 
 >> Universal Dependencies
+
+
+
+> COLING: [Joint Aspect Extraction and Sentiment Analysis with Directional Graph Convolutional Networks](./paper/2020.coling-main.24v2.pdf)
+>> Guimin Chen, Yuanhe Tian and Yan Song
+>>
+>>REST, LPTP, TWTR
+
+
+ 
+> COLING: [Meet Changes with Constancy: Learning Invariance in Multi-Source Translation](./paper/2020.coling-main.97.pdf)
+>> Jianfeng Liu, Ling Luo, Xiang Ao, Yan Song, Haoran Xu and Jian Ye
+>>
+>>IWSLT, Multi30K
+
+
+> EMNLP: [Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks](./paper/2020.emnlp-main.487v2.pdf)
+>> Yuanhe Tian, Yan Song and Fei Xia.
+>>
+>> CCGBank
+
+
+> EMNLP: [Improving Constituency Parsing with Span Attention](./paper/2020.findings-emnlp.153.pdf) 
+>> Yuanhe Tian, Yan Song, Fei Xia and Tong Zhang
+>>
+>> Penn Treebank
+>>
