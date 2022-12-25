@@ -1,6 +1,6 @@
 ## 2022
 
-> #### arXiv:2209.00796, 2022: [Diffusion models: A comprehensive survey of methods and applications](paper/Diffusion models A comprehensive survey of methods and applications.pdf)
+> #### arXiv:2209.00796, 2022: [Diffusion models: A comprehensive survey of methods and applications](paper/DiffusionmodelsAcomprehensivesurveyofmethodsandapplications.pdf)
 >
 >> Yang, Ling and Zhang, Zhilong and Song, Yang and Hong, Shenda and Xu, Runsheng and Zhao, Yue and Shao, Yingxia and Zhang, Wentao and Cui, Bin and Yang, Ming-Hsuan
 >>
