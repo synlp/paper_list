@@ -1,60 +1,6 @@
 
 # To-be Done
 
-Yan Song, Shuming Shi, Jing Li, and Haisong Zhang. "Directional skip-gram: Explicitly distinguishing left and right context for word embeddings." In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 175-180. New Orleans, Louisiana. 2018.
-
-
-
-Yuanhe Tian, Guimin Chen, Yan Song, and Xiang Wan. "Dependency-driven relation extraction with attentive graph convolutional networks." In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pp. 4458-4471. Online. 2021.
-
-Yan Song. "Chinese Couplet Generation with Syntactic Information." In COLING-2022, pp. 6436-6446. Gyeongju, Republic of Korea. 2022.
-
-Yuanhe Tian, Yan Song, Fei Xia. "Enhancing Structure-aware Encoder with Extremely Limited Data for Graph-based Dependency Parsing." In COLING-2022, pp. 5438-5449. Gyeongju, Republic of Korea. 2022.
-
-Yuanhe Tian, Han Qin, Fei Xia, Yan Song. "Syntax-driven Approach for Semantic Role Labeling." In LREC-2022, pp. 7129-7139. Marseille, France. 2022.
-
-Yuanhe Tian, Han Qin, Fei Xia, Yan Song. "ChiMST: A Chinese Medical Corpus for Word Segmentation and Medical Term Recognition." In LREC-2022, pp. 5654-5664. Marseille, France. 2022.
-
-Han Qin, Yuanhe Tian, Fei Xia, Yan Song. "Enhancing Relation Extraction via Adversarial Multi-task Learning." In LREC-2022, pp. 6190-6199. Marseille, France. 2022.
-
-Han Qin, Yuanhe Tian, Yan Song. "Complementary Learning of Aspect Terms for Aspect-based Sentiment Analysis." In LREC-2022, pp. 7029-7039. Marseille, France. 2022.
-
-Han Qin, Yuanhe Tian, and Yan Song. "Relation Extraction with Word Graphs from N-grams." In EMNLP-2021, pp.2860-2868. Online and Punta Cana, Dominican Republic. 2021.
-
-Han Qin, Guimin Chen, Yuanhe Tian, and Yan Song. "Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories." In EMNLP-2021, pp. 3942-3954. Online and Punta Cana, Dominican Republic. 2021.
-
-Yuanhe Tian, Guimin Chen, Yan Song, Xiang Wan. "Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks." In ACL-2021, pp. 4458–4471. Online. 2021.
-
-Yuanhe Tian, Guimin Chen, Han Qin, Yan Song. "Federated Chinese Word Segmentation with Global Character Associations." In ACL-2021, pp. 4306-4313. Online. 2021.
-
-Guimin Chen, Yuanhe Tian, Yan Song, Xiang Wan. "Relation Extraction with Type-aware Map Memories of Word Dependencies." In ACL-2021, pp. 2501-2512. Online. 2021.
-
-Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan. "Cross-modal Memory Networks for Radiology Report Generation." In ACL-2021, pp. 5904–5914. Online. 2021.
-
-Han Qin, Guimin Chen, Yuanhe Tian, Yan Song. "Improving Arabic Diacritization with Regularized Decoding and Adversarial Training." In ACL-2021, pp. 534-542. Online. 2021.
-
-Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song, Tong Zhang. "Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation." In ACL-2021, pp. 3336-3349. Online. 2021.
-
-Shizhe Diao, Xinwei Shen, Kashun Shum, Yan Song, Tong Zhang. "TILGAN: Transformer-based Implicit Latent GAN for Diverse and Coherent Text Generation." In ACL-2021, pp. 4844-4858. Online. 2021.
-
-Yu Lu, Junwei Bao, Yan Song, Zichen Ma, Shuguang Cui, Youzheng Wu and Xiaodong He. "RevCore: Review-Augmented Conversational Recommendation." In ACL-2021, pp. 1161-1173. Online. 2021.
-
-Jinpeng Hu, Jianling Li, Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan and Tsung-Hui Chang. "Word Graph Guided Summarization for Radiology Findings." In ACL-2021, pp. 4980-4990. Online. 2021.
-
-Yuanhe Tian, Guimin Chen, Yan Song. "Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble." In NAACL-2021, pp. 2910-2922. Online. 2021.
-
-Yuanhe Tian, Guimin Chen, Yan Song. "Enhancing Aspect-level Sentiment Analysis with Word Dependencies." In EACL-2021, pp. 3726-3739. Online. 2021.
-
-
-
-
-
-
-
-
-
-
-
 Xintong Yu, Hongming Zhang, Yangqiu Song, Yan Song, Changshui Zhang. "What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues." In EMNLP-2019, pp. 5123-5132. Hong Kong, China. 2019.
 
 Ling Luo, Xiang Ao, Yan Song, Feiyang Pan, Min Yang, Qing He.  "Reading Like HER: Human Reading Inspired Extractive Summarization." In EMNLP-2019, pp. 3033-3043. Hong Kong, China. 2019.
@@ -101,6 +47,9 @@ Yan Song, Shuming Shi, Jing Li, Haisong Zhang. "Directional Skip-Gram: Explicitl
 Jing Li, Yan Song, Haisong Zhang, Shuming Shi.  "A Manually Annotated Chinese Corpus for Non-task-oriented Dialogue Systems." In arXiv preprint:1805.05542.
 
 Nan Wang, Yan Song, Fei Xia. "Constructing a Chinese Medical Conversation Corpus Annotated with Conversational Structures and Actions." In LREC-2018, pp. 2933-2936. Miyazaki, Japan. 2018.
+
+Yan Song, Shuming Shi, Jing Li, and Haisong Zhang. "Directional skip-gram: Explicitly distinguishing left and right context for word embeddings." In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 175-180. New Orleans, Louisiana. 2018.
+
 
 Nan Wang, Yan Song, Fei Xia. "Coding Structures and Actions with the COSTA Scheme in Medical Conversations." In BioNLP-2018, pp. 76-86. Melbourne, Australia. 2018.
 
@@ -166,6 +115,19 @@ Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computa
 
 ## 2022
 
+Yan Song. "Chinese Couplet Generation with Syntactic Information." In COLING-2022, pp. 6436-6446. Gyeongju, Republic of Korea. 2022.
+
+Yuanhe Tian, Yan Song, Fei Xia. "Enhancing Structure-aware Encoder with Extremely Limited Data for Graph-based Dependency Parsing." In COLING-2022, pp. 5438-5449. Gyeongju, Republic of Korea. 2022.
+
+Yuanhe Tian, Han Qin, Fei Xia, Yan Song. "Syntax-driven Approach for Semantic Role Labeling." In LREC-2022, pp. 7129-7139. Marseille, France. 2022.
+
+Yuanhe Tian, Han Qin, Fei Xia, Yan Song. "ChiMST: A Chinese Medical Corpus for Word Segmentation and Medical Term Recognition." In LREC-2022, pp. 5654-5664. Marseille, France. 2022.
+
+Han Qin, Yuanhe Tian, Fei Xia, Yan Song. "Enhancing Relation Extraction via Adversarial Multi-task Learning." In LREC-2022, pp. 6190-6199. Marseille, France. 2022.
+
+Han Qin, Yuanhe Tian, Yan Song. "Complementary Learning of Aspect Terms for Aspect-based Sentiment Analysis." In LREC-2022, pp. 7029-7039. Marseille, France. 2022.
+
+
 > : [](./paper/)
 >> 
 >>
@@ -192,6 +154,35 @@ Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computa
 >> 
 
 ## 2021
+
+Yuanhe Tian, Guimin Chen, Yan Song, and Xiang Wan. "Dependency-driven relation extraction with attentive graph convolutional networks." In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pp. 4458-4471. Online. 2021.
+
+
+Han Qin, Yuanhe Tian, and Yan Song. "Relation Extraction with Word Graphs from N-grams." In EMNLP-2021, pp.2860-2868. Online and Punta Cana, Dominican Republic. 2021.
+
+Han Qin, Guimin Chen, Yuanhe Tian, and Yan Song. "Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories." In EMNLP-2021, pp. 3942-3954. Online and Punta Cana, Dominican Republic. 2021.
+
+Yuanhe Tian, Guimin Chen, Yan Song, Xiang Wan. "Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks." In ACL-2021, pp. 4458–4471. Online. 2021.
+
+Yuanhe Tian, Guimin Chen, Han Qin, Yan Song. "Federated Chinese Word Segmentation with Global Character Associations." In ACL-2021, pp. 4306-4313. Online. 2021.
+
+Guimin Chen, Yuanhe Tian, Yan Song, Xiang Wan. "Relation Extraction with Type-aware Map Memories of Word Dependencies." In ACL-2021, pp. 2501-2512. Online. 2021.
+
+Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan. "Cross-modal Memory Networks for Radiology Report Generation." In ACL-2021, pp. 5904–5914. Online. 2021.
+
+Han Qin, Guimin Chen, Yuanhe Tian, Yan Song. "Improving Arabic Diacritization with Regularized Decoding and Adversarial Training." In ACL-2021, pp. 534-542. Online. 2021.
+
+Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song, Tong Zhang. "Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation." In ACL-2021, pp. 3336-3349. Online. 2021.
+
+Shizhe Diao, Xinwei Shen, Kashun Shum, Yan Song, Tong Zhang. "TILGAN: Transformer-based Implicit Latent GAN for Diverse and Coherent Text Generation." In ACL-2021, pp. 4844-4858. Online. 2021.
+
+Yu Lu, Junwei Bao, Yan Song, Zichen Ma, Shuguang Cui, Youzheng Wu and Xiaodong He. "RevCore: Review-Augmented Conversational Recommendation." In ACL-2021, pp. 1161-1173. Online. 2021.
+
+Jinpeng Hu, Jianling Li, Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan and Tsung-Hui Chang. "Word Graph Guided Summarization for Radiology Findings." In ACL-2021, pp. 4980-4990. Online. 2021.
+
+Yuanhe Tian, Guimin Chen, Yan Song. "Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble." In NAACL-2021, pp. 2910-2922. Online. 2021.
+
+Yuanhe Tian, Guimin Chen, Yan Song. "Enhancing Aspect-level Sentiment Analysis with Word Dependencies." In EACL-2021, pp. 3726-3739. Online. 2021.
 
 > : [](./paper/)
 >> 
