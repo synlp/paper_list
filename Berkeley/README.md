@@ -1,7 +1,3 @@
-## Homepage
-
-[here](http://nlp.cs.berkeley.edu/publications.shtml)
-
 ## 2022
 
 > #### ACL: [Automated Crossword Solving](./paper/Wallace-Tomlin-Xu-Yang-Pathak-Ginsberg-Klein_2022_Crossword_paper.pdf)  

@@ -1,7 +1,3 @@
-## Homepage
-
-[here](https://nlp.stanford.edu/pubs/)
-
 ## 2022
 
 > #### NeurIPS: [Deep Bidirectional Language-Knowledge Graph Pretraining](./paper/2210.09338.pdf)  
