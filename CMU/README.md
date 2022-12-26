@@ -15,11 +15,6 @@
 >>  
 
 
-> #### International Conference on Machine Learning: [Symmetric Machine Theory of Mind](./paper/sclar22a.pdf)  
->> Melanie Sclar, Graham Neubig, Yonatan Bisk   
->>  
-
-
 > #### AAAI: [Explain, edit, and understand: Rethinking user study design for evaluating model explanations](./paper/20464-Article-Text-24477-1-2-20220628.pdf)  
 >> Siddhant Arora, Danish Pruthi, Norman Sadeh, William W Cohen, Zachary C Lipton, Graham Neubig     
 >>  
@@ -27,6 +22,11 @@
 
 > #### AAAI: [Jaket: Joint pre-training of knowledge graph and language understanding](./paper/21417-Article-Text-25430-1-2-20220628.pdf)  
 >> Donghan Yu, Chenguang Zhu, Yiming Yang, Michael Zeng     
+>>  
+
+
+> #### International Conference on Machine Learning: [Symmetric Machine Theory of Mind](./paper/sclar22a.pdf)  
+>> Melanie Sclar, Graham Neubig, Yonatan Bisk   
 >>  
 
 
