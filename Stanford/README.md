@@ -14,7 +14,12 @@
 >>  
 
 
-> #### NeurIPS: [DABS 2.0: Improved Datasets and Algorithms for Universal Self-Supervision](./paper/263_dabs_2_0_improved_datasets_and.pdf)  
+> #### NeurIPS (Datasets and Benchmarks Track): [CLEVRER-Humans: Describing Physical and Causal Events the Human Way](./paper/257_clevrer_humans_describing_phys.pdf)  
+>> Jiayuan Mao, Xuelin Yang, Xikun Zhang, Noah Goodman and Jiajun Wu
+>>  
+
+
+> #### NeurIPS (Datasets and Benchmarks Track): [DABS 2.0: Improved Datasets and Algorithms for Universal Self-Supervision](./paper/263_dabs_2_0_improved_datasets_and.pdf)  
 >> Alex Tamkin, Gaurab Banerjee, Mohamed Owda, Vincent Liu, Shashank Rammoorthy and Noah Goodman
 >>  
 
@@ -84,3 +89,6 @@
 >>
 
 
+> #### Workshop on Learning with Natural Language Supervision: [Shared Autonomy for Robotic Manipulation with Language Corrections](./paper/karamcheti2022lilac.pdf)
+>> Siddharth Karamcheti, Raj Palleti, Yuchen Cui, Percy Liang and Dorsa Sadigh
+>>
