@@ -115,43 +115,35 @@ Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computa
 
 ## 2022
 
-Yan Song. "Chinese Couplet Generation with Syntactic Information." In COLING-2022, pp. 6436-6446. Gyeongju, Republic of Korea. 2022.
-
-Yuanhe Tian, Yan Song, Fei Xia. "Enhancing Structure-aware Encoder with Extremely Limited Data for Graph-based Dependency Parsing." In COLING-2022, pp. 5438-5449. Gyeongju, Republic of Korea. 2022.
-
-Yuanhe Tian, Han Qin, Fei Xia, Yan Song. "Syntax-driven Approach for Semantic Role Labeling." In LREC-2022, pp. 7129-7139. Marseille, France. 2022.
-
-Yuanhe Tian, Han Qin, Fei Xia, Yan Song. "ChiMST: A Chinese Medical Corpus for Word Segmentation and Medical Term Recognition." In LREC-2022, pp. 5654-5664. Marseille, France. 2022.
-
-Han Qin, Yuanhe Tian, Fei Xia, Yan Song. "Enhancing Relation Extraction via Adversarial Multi-task Learning." In LREC-2022, pp. 6190-6199. Marseille, France. 2022.
-
-Han Qin, Yuanhe Tian, Yan Song. "Complementary Learning of Aspect Terms for Aspect-based Sentiment Analysis." In LREC-2022, pp. 7029-7039. Marseille, France. 2022.
-
-
-> : [](./paper/)
->> 
+> COLING: [Chinese Couplet Generation with Syntactic Information](./paper/2022.coling-1.560.pdf)
+>> Yan Song
 >>
->> 
+>> [VV-couplet](https://gitlab.com/feng-7/VV-couplet)
 
-> : [](./paper/)
->> 
+> COLING: [Enhancing Structure-aware Encoder with Extremely Limited Data for Graph-based Dependency Parsing](./paper/2022.coling-1.483.pdf)
+>> Yuanhe Tian, Yan Song, Fei Xia
 >>
->> 
+>> PRE-TRAIN: English Wiki; BENCHMARK: PTB, BROWN, UD
 
-> : [](./paper/)
->> 
+> LREC: [Syntax-driven Approach for Semantic Role Labeling](./paper/2022.lrec-1.772.pdf)
+>> Yuanhe Tian, Han Qin, Fei Xia, Yan Song
 >>
->> 
+>> CoNLL-2005 (CN05) and CoNLL-2012 (CN12)
 
-> : [](./paper/)
->> 
+> LREC: [ChiMST: A Chinese Medical Corpus for Word Segmentation and Medical Term Recognition](./paper/2022.lrec-1.772.pdf)
+>> Yuanhe Tian, Han Qin, Fei Xia, Yan Song
 >>
->> 
+>> ChiMST
 
-> : [](./paper/)
->> 
+> LREC: [Enhancing Relation Extraction via Adversarial Multi-task Learning](./paper/2022.lrec-1.666.pdf)
+>> Han Qin, Yuanhe Tian, Fei Xia, Yan Song
 >>
->> 
+>> ACE2005EN (ACE05), SemEval 2010 Task 8 (SemEval)
+
+> LREC: [Complementary Learning of Aspect Terms for Aspect-based Sentiment Analysis](./paper/2022.lrec-1.760.pdf)
+>> Han Qin, Yuanhe Tian, Yan Song
+>>
+>> LAP14, REST14, REST15, REST16, MAMS
 
 ## 2021
 
@@ -220,31 +212,31 @@ Yuanhe Tian, Guimin Chen, Yan Song. "Enhancing Aspect-level Sentiment Analysis w
 > EMNLP: [ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations](./paper/1911.00720.pdf) 
 >> Shizhe Diao, Jiaxin Bai, Yan Song, Tong Zhang, and Yonggang Wang 
 >> 
->> XNLI, LCQMC 
+>> CWS: MSR; POS: CTB5; NER: MSRA; DC: THUCNews; SA: CSC; NLI: XNLI; SPM: LCQMC 
 
 
 > EMNLP: [Generating Radiology Reports via Memory-driven Transformer](./paper/2020.emnlp-main.112.pdf)
 >> Zhihong Chen, Yan Song, Tsung-Hui Chang, and Xiang Wan 
 >> 
->> MIMIC-CXR 
+>> IU X-RAY, MIMIC-CXR 
 
 
 > BMC bioinformatics: [Improving biomedical named entity recognition with syntactic information](./paper/s12859-020-03834-6.pdf)
 >> Yuanhe Tian, Wang Shen, Yan Song, Fei Xia, Min He, and Kenli Li 
 >> 
->> BioKMNER
+>> BC2GM, JNLPBA, BC5CDR-chemical, NCBI-disease, LINNAEUS, Species-800
 
 
 > COLING: [Summarizing Medical Conversations via Identifying Important Utterances](./paper/2020.coling-main.63.pdf)
 >> Yan Song, Yuanhe Tian, Nan Wang and Fei Xia 
 >> 
->>
+>> CHUNYU SUM1 and SUM2
 
 
 > COLING: [Joint Chinese Word Segmentation and Part-of-speech Tagging via Multi-channel Attention of Character N-grams](./paper/2020.coling-main.187.pdf)
 >> Yuanhe Tian, Yan Song and Fei Xia 
 >> 
->> Universal Dependencies
+>> CTB5, CTB6, CTB7, CTB9, Universal Dependencies
 
 
 
@@ -270,7 +262,7 @@ Yuanhe Tian, Guimin Chen, Yan Song. "Enhancing Aspect-level Sentiment Analysis w
 > EMNLP: [Improving Constituency Parsing with Span Attention](./paper/2020.findings-emnlp.153.pdf) 
 >> Yuanhe Tian, Yan Song, Fei Xia and Tong Zhang
 >>
->> Penn Treebank
+>> ATB2.0, CTB5, PTB3
 
 > EMNLP: [Named Entity Recognition for Social Media Texts with Semantic Augmentation](./paper/2020.emnlp-main.107.pdf)
 >> Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song and Bo Dai
