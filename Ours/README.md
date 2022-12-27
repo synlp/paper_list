@@ -166,9 +166,6 @@ Han Qin, Guimin Chen, Yuanhe Tian, Yan Song. "Improving Arabic Diacritization wi
 
 Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song, Tong Zhang. "Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation." In ACL-2021, pp. 3336-3349. Online. 2021.
 
-. "." In ACL-2021, pp. 4844-4858. Online. 2021.
-
-. "." In ACL-2021, pp. 1161-1173. Online. 2021.
 
 
 > : [](./paper/)
