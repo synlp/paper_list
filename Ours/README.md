@@ -166,15 +166,10 @@ Han Qin, Guimin Chen, Yuanhe Tian, Yan Song. "Improving Arabic Diacritization wi
 
 Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song, Tong Zhang. "Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation." In ACL-2021, pp. 3336-3349. Online. 2021.
 
-Shizhe Diao, Xinwei Shen, Kashun Shum, Yan Song, Tong Zhang. "TILGAN: Transformer-based Implicit Latent GAN for Diverse and Coherent Text Generation." In ACL-2021, pp. 4844-4858. Online. 2021.
+. "." In ACL-2021, pp. 4844-4858. Online. 2021.
 
-Yu Lu, Junwei Bao, Yan Song, Zichen Ma, Shuguang Cui, Youzheng Wu and Xiaodong He. "RevCore: Review-Augmented Conversational Recommendation." In ACL-2021, pp. 1161-1173. Online. 2021.
+. "." In ACL-2021, pp. 1161-1173. Online. 2021.
 
-Jinpeng Hu, Jianling Li, Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan and Tsung-Hui Chang. "Word Graph Guided Summarization for Radiology Findings." In ACL-2021, pp. 4980-4990. Online. 2021.
-
-Yuanhe Tian, Guimin Chen, Yan Song. "Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble." In NAACL-2021, pp. 2910-2922. Online. 2021.
-
-Yuanhe Tian, Guimin Chen, Yan Song. "Enhancing Aspect-level Sentiment Analysis with Word Dependencies." In EACL-2021, pp. 3726-3739. Online. 2021.
 
 > : [](./paper/)
 >> 
@@ -200,6 +195,31 @@ Yuanhe Tian, Guimin Chen, Yan Song. "Enhancing Aspect-level Sentiment Analysis w
 >> 
 >>
 >> 
+
+> ACL: [TILGAN: Transformer-based Implicit Latent GAN for Diverse and Coherent Text Generation](./paper/2021.findings-acl.428.pdf)
+>> Shizhe Diao, Xinwei Shen, Kashun Shum, Yan Song, Tong Zhang
+>>
+>> MSCOCO, WMTNEWS, ROC-STORY
+
+> ACL: [RevCore: Review-Augmented Conversational Recommendation](./paper/2021.findings-acl.99.pdf)
+>> Yu Lu, Junwei Bao, Yan Song, Zichen Ma, Shuguang Cui, Youzheng Wu and Xiaodong He
+>>
+>> REDIAL, IMBD
+
+> ACL: [Word Graph Guided Summarization for Radiology Findings](./paper/2021.findings-acl.441.pdf)
+>> Jinpeng Hu, Jianling Li, Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan and Tsung-Hui Chang
+>>
+>> OPENI, MIMIC-CXR
+
+> NAACL: [Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble](./paper/2021.naacl-main.231.pdf)
+>> Yuanhe Tian, Guimin Chen, Yan Song
+>>
+>> LAP14, REST14, REST15, REST16, TWITTER
+
+> EACL: [Enhancing Aspect-level Sentiment Analysis with Word Dependencies](./paper/2021.eacl-main.326.pdf)
+>> Yuanhe Tian, Guimin Chen, Yan Song
+>>
+>> LAP14, REST14, REST15, REST16, TWITTER
 
 ## 2020  
 
