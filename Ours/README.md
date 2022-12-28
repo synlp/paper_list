@@ -1,62 +1,6 @@
 
 # To-be Done
 
-Xintong Yu, Hongming Zhang, Yangqiu Song, Yan Song, Changshui Zhang. "What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues." In EMNLP-2019, pp. 5123-5132. Hong Kong, China. 2019.
-
-Ling Luo, Xiang Ao, Yan Song, Feiyang Pan, Min Yang, Qing He.  "Reading Like HER: Human Reading Inspired Extractive Summarization." In EMNLP-2019, pp. 3033-3043. Hong Kong, China. 2019.
-
-Hongming Zhang, Jiaxin Bai, Yan Song, Kun Xu, Changlong Yu, Yangqiu Song, Wilfred Ng, Dong Yu. "Multiplex Word Embeddings for Selectional Preference Acquisition." In EMNLP-2019, pp. 5247-5256. Hong Kong, China. 2019.
-
-
-Miaofeng Liu, Yan Song, Hongbin Zou, Tong Zhang. "Reinforced Training Data Selection for Domain Adaptation." In ACL-2019, pp. 1957-1968. Florence, Italy. 2019.
-
-Hongming Zhang, Yan Song, Yangqiu Song, Dong Yu. "Knowledge-aware Pronoun Coreference Resolution." In ACL-2019, pp. 867-876. Florence, Italy. 2019.
-
-Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu. "Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network." In ACL-2019, pp. 3156-3161. Florence, Italy. 2019.
-
-Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He, Dong Yu. "Unsupervised Neural Aspect Extraction with Sememes." In IJCAI-2019, pp. 5123-5129. Macao, China. 2019.
-
-Zhaofeng Wu, Yan Song, Sicong Huang, Yuanhe Tian, and Fei Xia. "A Hybrid Approach to Biomedical Natural Language Inference." In BioNLP-2019, pp. 415-426. Florence, Italy. 2019.
-
-Yuanhe Tian, Weicheng Ma, Fei Xia, Yan Song.  "ChiMed: A Chinese Medical Corpus for Question Answering." In BioNLP-2019, pp. 250-260. Florence, Italy.  2019.
-
-Hongming Zhang, Yan Song, Yangqiu Song. "Incorporating Context and External Knowledge for Pronoun Coreference Resolution." In NAACL-2019, pp. 872-881. Minneapolis, Minnesota. 2019.
-
-Guoyin Wang, Yan Song, Dong Yu. "Learning Word Embeddings with Domain Awareness." In arXiv preprint:1906.03249.
-
-Jing Li, Yan Song, Zhongyu Wei, KF Wong. "A Joint Model of Conversational Discourse and Latent Topics on Microblogs." Computational Linguistics, 2018, Volume 44 (4), pp. 719-754.
-
-Dingmin Wang, Yan Song, Jing Li, Jialong Han, and Haisong Zhang. 2018. "A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check." In EMNLP-2018, pp. 2517-2527. Brussels, Belgium. 2018.
-
-Jichuan Zeng, Jing Li, Yan Song, Cuiyun Gao, Michael R. Lyu, and Irwin King. "Topic Memory Networks for Short Text Classification." In EMNLP-2018, pp. 3120-3131. Brussels, Belgium. 2018.
-
-Juntao Li, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, and Rui Yan. "Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training." In EMNLP-2018, pp. 3890-3900. Brussels, Belgium. 2018.
-
-Xiuying Chen, Shen Gao, Chongyang Tao, Yan Song, Dongyan Zhao, and Rui Yan. "Iterative Document Representation Learning Towards Summarization with Polishing." In EMNLP-2018, pp. 4088–4097. Brussels, Belgium. 2018.
-
-Yan Song, Shuming Shi. "Complementary Learning of Word Embeddings." In IJCAI-2018, pp. 4368-4374. Stockholm, Sweden. 2018.
-
-Yan Song,Shuming Shi, Jing Li. "Joint Learning Embeddings for Chinese Words and their Components via Ladder Structured Networks." In IJCAI-2018, pp. 4375-4381. Stockholm, Sweden. 2018.
-
-Jialong Han, Yan Song, Xin Zhao, Shuming Shi, Haisong Zhang. "hyperdoc2vec: Distributed Representations of Hypertext Documents." In ACL-2018, pp. 2384-2394. Melbourne, Australia. 2018.
-
-Yingyi Zhang, Jing Li, Yan Song,Chengzhi Zhang. "Encoding Conversation Context for Neural Keyphrase Extraction from Microblog Posts." In NAACL-2018, pp. 1676-1686. New Orleans, Louisiana. 2018.
-
-Yan Song, Shuming Shi, Jing Li, Haisong Zhang. "Directional Skip-Gram: Explicitly Distinguishing Left and Right Context for Word Embeddings" In NAACL-2018, pp. 175-180. New Orleans, Louisiana. 2018.
-
-Jing Li, Yan Song, Haisong Zhang, Shuming Shi.  "A Manually Annotated Chinese Corpus for Non-task-oriented Dialogue Systems." In arXiv preprint:1805.05542.
-
-Nan Wang, Yan Song, Fei Xia. "Constructing a Chinese Medical Conversation Corpus Annotated with Conversational Structures and Actions." In LREC-2018, pp. 2933-2936. Miyazaki, Japan. 2018.
-
-Yan Song, Shuming Shi, Jing Li, and Haisong Zhang. "Directional skip-gram: Explicitly distinguishing left and right context for word embeddings." In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 175-180. New Orleans, Louisiana. 2018.
-
-
-Nan Wang, Yan Song, Fei Xia. "Coding Structures and Actions with the COSTA Scheme in Medical Conversations." In BioNLP-2018, pp. 76-86. Melbourne, Australia. 2018.
-
-Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Disease Phrase Matching with Adversarial Networks." In BioNLP-2018, pp. 137-141. Melbourne, Australia. 2018.
-
-Haisong Zhang, Zhangming Chan, Yan Song, Dongyan Zhao, Rui Yan. "When Less Is More: Using Less Context Information to Generate Better Utterances in Group Conversations." In NLPCC-2018, pp. 76-84. Hohhot, China. 2018.
-
 Yan Song, Chia-Jung Lee, Fei Xia. "Learning Word Representations with Regularization from Prior Knowledge." In CoNLL-2017, pp. 143–152. Vancouver, Canada. 2017.
 
 Yan Song, Chia-Jung Lee. 2017. "Learning User Embeddings from Emails." In EACL-2017, pp. 733-738. Valencia, Spain. 2017.
@@ -154,44 +98,42 @@ Han Qin, Yuanhe Tian, and Yan Song. "Relation Extraction with Word Graphs from N
 
 Han Qin, Guimin Chen, Yuanhe Tian, and Yan Song. "Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories." In EMNLP-2021, pp. 3942-3954. Online and Punta Cana, Dominican Republic. 2021.
 
-Yuanhe Tian, Guimin Chen, Yan Song, Xiang Wan. "Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks." In ACL-2021, pp. 4458–4471. Online. 2021.
-
-Yuanhe Tian, Guimin Chen, Han Qin, Yan Song. "Federated Chinese Word Segmentation with Global Character Associations." In ACL-2021, pp. 4306-4313. Online. 2021.
-
-Guimin Chen, Yuanhe Tian, Yan Song, Xiang Wan. "Relation Extraction with Type-aware Map Memories of Word Dependencies." In ACL-2021, pp. 2501-2512. Online. 2021.
-
-Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan. "Cross-modal Memory Networks for Radiology Report Generation." In ACL-2021, pp. 5904–5914. Online. 2021.
-
-Han Qin, Guimin Chen, Yuanhe Tian, Yan Song. "Improving Arabic Diacritization with Regularized Decoding and Adversarial Training." In ACL-2021, pp. 534-542. Online. 2021.
-
-Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song, Tong Zhang. "Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation." In ACL-2021, pp. 3336-3349. Online. 2021.
-
-
 
 > : [](./paper/)
 >> 
 >>
 >> 
 
-> : [](./paper/)
->> 
+> ACL: [Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks](./paper/2021.acl-long.344v2.pdf)
+>> Yuanhe Tian, Guimin Chen, Yan Song, Xiang Wan
 >>
->> 
+>> ACE2005EN, SemEval 2010 Task 8
 
-> : [](./paper/)
->> 
+> ACL: [Federated Chinese Word Segmentation with Global Character Associations](./paper/)
+>> Yuanhe Tian, Guimin Chen, Han Qin, Yan Song
 >>
->> 
+>> CTB7
 
-> : [](./paper/)
->> 
->>
->> 
 
-> : [](./paper/)
->> 
+> ACL: [Relation Extraction with Type-aware Map Memories of Word Dependencies](./paper/2021.findings-acl.221.pdf)
+>> Guimin Chen, Yuanhe Tian, Yan Song, Xiang Wan
 >>
->> 
+>> ACE2005EN, SemEval 2010 Task 8
+
+> ACL: [Cross-modal Memory Networks for Radiology Report Generation](./paper/2021.acl-long.459.pdf)
+>> Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan
+>>
+>> IU X-RAY, MIMIC-CXR
+
+> ACL: [Improving Arabic Diacritization with Regularized Decoding and Adversarial Training](./paper/2021.acl-short.68.pdf)
+>> Han Qin, Guimin Chen, Yuanhe Tian, Yan Song
+>>
+>> ATB, Tashkeela
+
+> ACL: [Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation](./paper/2021.acl-long.259.pdf)
+>> Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song, Tong Zhang
+>>
+>> CHEMPROT, RCT, CITATIONINTENT, SCIERC, HYPERPARTISAN, AGNEWS, AMAZON, IMDB
 
 > ACL: [TILGAN: Transformer-based Implicit Latent GAN for Diverse and Coherent Text Generation](./paper/2021.findings-acl.428.pdf)
 >> Shizhe Diao, Xinwei Shen, Kashun Shum, Yan Song, Tong Zhang
@@ -310,10 +252,28 @@ Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song, Tong Zhang. "Taming P
 
 ## 2019
 
-> : [](./paper/)
->> 
->>
->> 
+Xintong Yu, Hongming Zhang, Yangqiu Song, Yan Song, Changshui Zhang. "What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues." In EMNLP-2019, pp. 5123-5132. Hong Kong, China. 2019.
+
+Ling Luo, Xiang Ao, Yan Song, Feiyang Pan, Min Yang, Qing He.  "Reading Like HER: Human Reading Inspired Extractive Summarization." In EMNLP-2019, pp. 3033-3043. Hong Kong, China. 2019.
+
+Hongming Zhang, Jiaxin Bai, Yan Song, Kun Xu, Changlong Yu, Yangqiu Song, Wilfred Ng, Dong Yu. "Multiplex Word Embeddings for Selectional Preference Acquisition." In EMNLP-2019, pp. 5247-5256. Hong Kong, China. 2019.
+
+
+Miaofeng Liu, Yan Song, Hongbin Zou, Tong Zhang. "Reinforced Training Data Selection for Domain Adaptation." In ACL-2019, pp. 1957-1968. Florence, Italy. 2019.
+
+Hongming Zhang, Yan Song, Yangqiu Song, Dong Yu. "Knowledge-aware Pronoun Coreference Resolution." In ACL-2019, pp. 867-876. Florence, Italy. 2019.
+
+Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu. "Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network." In ACL-2019, pp. 3156-3161. Florence, Italy. 2019.
+
+Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He, Dong Yu. "Unsupervised Neural Aspect Extraction with Sememes." In IJCAI-2019, pp. 5123-5129. Macao, China. 2019.
+
+Zhaofeng Wu, Yan Song, Sicong Huang, Yuanhe Tian, and Fei Xia. "A Hybrid Approach to Biomedical Natural Language Inference." In BioNLP-2019, pp. 415-426. Florence, Italy. 2019.
+
+Yuanhe Tian, Weicheng Ma, Fei Xia, Yan Song.  "ChiMed: A Chinese Medical Corpus for Question Answering." In BioNLP-2019, pp. 250-260. Florence, Italy.  2019.
+
+Hongming Zhang, Yan Song, Yangqiu Song. "Incorporating Context and External Knowledge for Pronoun Coreference Resolution." In NAACL-2019, pp. 872-881. Minneapolis, Minnesota. 2019.
+
+Guoyin Wang, Yan Song, Dong Yu. "Learning Word Embeddings with Domain Awareness." In arXiv preprint:1906.03249.
 
 > : [](./paper/)
 >> 
@@ -334,3 +294,42 @@ Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song, Tong Zhang. "Taming P
 >> 
 >>
 >> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+## 2018
+Jing Li, Yan Song, Zhongyu Wei, KF Wong. "A Joint Model of Conversational Discourse and Latent Topics on Microblogs." Computational Linguistics, 2018, Volume 44 (4), pp. 719-754.
+
+Dingmin Wang, Yan Song, Jing Li, Jialong Han, and Haisong Zhang. 2018. "A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check." In EMNLP-2018, pp. 2517-2527. Brussels, Belgium. 2018.
+
+Jichuan Zeng, Jing Li, Yan Song, Cuiyun Gao, Michael R. Lyu, and Irwin King. "Topic Memory Networks for Short Text Classification." In EMNLP-2018, pp. 3120-3131. Brussels, Belgium. 2018.
+
+Juntao Li, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, and Rui Yan. "Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training." In EMNLP-2018, pp. 3890-3900. Brussels, Belgium. 2018.
+
+Xiuying Chen, Shen Gao, Chongyang Tao, Yan Song, Dongyan Zhao, and Rui Yan. "Iterative Document Representation Learning Towards Summarization with Polishing." In EMNLP-2018, pp. 4088–4097. Brussels, Belgium. 2018.
+
+Yan Song, Shuming Shi. "Complementary Learning of Word Embeddings." In IJCAI-2018, pp. 4368-4374. Stockholm, Sweden. 2018.
+
+Yan Song,Shuming Shi, Jing Li. "Joint Learning Embeddings for Chinese Words and their Components via Ladder Structured Networks." In IJCAI-2018, pp. 4375-4381. Stockholm, Sweden. 2018.
+
+Jialong Han, Yan Song, Xin Zhao, Shuming Shi, Haisong Zhang. "hyperdoc2vec: Distributed Representations of Hypertext Documents." In ACL-2018, pp. 2384-2394. Melbourne, Australia. 2018.
+
+Yingyi Zhang, Jing Li, Yan Song,Chengzhi Zhang. "Encoding Conversation Context for Neural Keyphrase Extraction from Microblog Posts." In NAACL-2018, pp. 1676-1686. New Orleans, Louisiana. 2018.
+
+Yan Song, Shuming Shi, Jing Li, Haisong Zhang. "Directional Skip-Gram: Explicitly Distinguishing Left and Right Context for Word Embeddings" In NAACL-2018, pp. 175-180. New Orleans, Louisiana. 2018.
+
+Jing Li, Yan Song, Haisong Zhang, Shuming Shi.  "A Manually Annotated Chinese Corpus for Non-task-oriented Dialogue Systems." In arXiv preprint:1805.05542.
+
+Nan Wang, Yan Song, Fei Xia. "Constructing a Chinese Medical Conversation Corpus Annotated with Conversational Structures and Actions." In LREC-2018, pp. 2933-2936. Miyazaki, Japan. 2018.
+
+Yan Song, Shuming Shi, Jing Li, and Haisong Zhang. "Directional skip-gram: Explicitly distinguishing left and right context for word embeddings." In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 175-180. New Orleans, Louisiana. 2018.
+
+
+Nan Wang, Yan Song, Fei Xia. "Coding Structures and Actions with the COSTA Scheme in Medical Conversations." In BioNLP-2018, pp. 76-86. Melbourne, Australia. 2018.
+
+Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Disease Phrase Matching with Adversarial Networks." In BioNLP-2018, pp. 137-141. Melbourne, Australia. 2018.
+
+Haisong Zhang, Zhangming Chan, Yan Song, Dongyan Zhao, Rui Yan. "When Less Is More: Using Less Context Information to Generate Better Utterances in Group Conversations." In NLPCC-2018, pp. 76-84. Hohhot, China. 2018.
