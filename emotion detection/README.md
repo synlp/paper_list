@@ -68,7 +68,7 @@
 >
 >> Author: Soujanya Poria, Navonil Majumder, Rada Mihalcea, Eduard Hovy.
 >
->#### AAAI 2018: [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](./paper/4657-Article Text-7696-1-10-20190707.pdf)
+>#### AAAI 2018: [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](./paper/4657-ArticleText-7696-1-10-20190707.pdf)
 >
 >> Author:  Navonil Majumder, Soujanya Poria, Devamanyu Hazarika, Rada Mihalcea, Alexander Gelbukh, Erik Cambria
 
