@@ -60,15 +60,15 @@
 >
 >> Author: Deepanway Ghosal, Navonil Majumder, Soujanya Poria, Niyati Chhaya, Alexander Gelbukh
 >
->#### SIGDIAL 2020: [Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations](./paper/D19-1016.pdf)
+>#### SIGDIAL 2019: [Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations](./paper/D19-1016.pdf)
 >
 >> Author: Peixiang Zhong , Di Wang, Chunyan Miao.
 >
->#### IEEE Access 2020: [Emotion Recognition in Conversation: Research Challenges, Datasets, and Recent Advances](./paper/Emotion.pdf)
+>#### IEEE Access 2019: [Emotion Recognition in Conversation: Research Challenges, Datasets, and Recent Advances](./paper/Emotion.pdf)
 >
 >> Author: Soujanya Poria, Navonil Majumder, Rada Mihalcea, Eduard Hovy.
 >
->#### AAAI 2018: [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](./paper/4657-ArticleText-7696-1-10-20190707.pdf)
+>#### AAAI 2019: [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](./paper/4657-ArticleText-7696-1-10-20190707.pdf)
 >
 >> Author:  Navonil Majumder, Soujanya Poria, Devamanyu Hazarika, Rada Mihalcea, Alexander Gelbukh, Erik Cambria
 
