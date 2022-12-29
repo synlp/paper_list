@@ -1,60 +1,6 @@
 
 # To-be Done
 
-Yan Song, Chia-Jung Lee, Fei Xia. "Learning Word Representations with Regularization from Prior Knowledge." In CoNLL-2017, pp. 143–152. Vancouver, Canada. 2017.
-
-Yan Song, Chia-Jung Lee. 2017. "Learning User Embeddings from Emails." In EACL-2017, pp. 733-738. Valencia, Spain. 2017.
-
-Yan Song, Chia-Jung Lee. "Embedding Projection for Query Understanding." In WWW-2017, pp. 839-840. Perth, Australia. 2017.
-
-Chang-Ning Huang, Yan Song. 2015. "Chinese CCGbank Construction from Tsinghua Chinese Treebank." In Journal of Chinese Linguistics Monograph Series, 2015, (25), pp. 274-311. 
-
-Yan Song and Fei Xia. "Modern Chinese Helps Archaic Chinese Processing: Finding and Exploiting the Shared Properties." In LREC-2014, pp. 3129-3136. Reykjavik, Iceland. 2014.
-
-Jingfei Du, Yan Song, Chi-Ho Li. "Perceptron-based Tagging of Query Boundaries for Chinese Query Segmentation." In WWW-2014, pp. 257-258. Seoul, Korea. 2014.
-
-Yan Song and Fei Xia. "A Common Case of Jekyll and Hyde: the Synergistic Effect of Using Divided Source Training Data for Feature Augmentation." In IJCNLP-2013, pp. 623-631. Nagoya, Japan. 2013.
-
-Xiaojun Quan, Chunyu Kit, Yan Song. "Non-Monotonic Sentence Alignment via Semisupervised Learning." In Proceedings of ACL-2013, pp. 622-630. Sofia, Bulgaria. 2013.
-
-Yan Song, Prescott Klassen, Fei Xia, Chunyu Kit. "Entropy-based Training Data Selection for Domain Adaptation." In COLING-2012, pp. 1191-1200. Mumbai, India. 2012.
-
-Yan Song, Fei Xia. "Using a Goodness Measurement for Domain Adaptation: A Case Study on Chinese Word Segmentation." In LREC-2012, pp. 3853-3860. Istanbul, Turkey. 2012.
-
-Yan Song, Chang-Ning Huang, Chunyu Kit. "Construction of Chinese CCGbank." In Journal of Chinese Information Processing, 2012, Volume 26(3), pp. 3-9.
-
-Chang-Ning Huang, Yan Song. "Chinese CCGbank Construction from Tsinghua Chinese Treebank." In Proceedings of the Roundtable Conference on Linguistic Corpus and Corpus Linguistics in the Chinese Context, pp. 274-311. Hong Kong, China. 2011.
-
-Bin Lu, Yan Song, Xing Zhang and Benjamin K. Tsou. "Learning Chinese Polarity Lexicons By Integration of Graph Models and Morphological Features." In Information Retrieval Technology (AIRS-2010). Lecture Notes in Computer Science, 2010, Volume 6458, pp. 466-477. 
-
-Xing Zhang, Yan Song, Alex Chengyu Fang. "Conditional Random Fields for Term Extraction." In KDIR-2010, pp. 414-417. Valencia, Spain. 2010.
-
-Xing Zhang, Yan Song, Alex Chengyu Fang. "Term recognition using conditional random fields." In NLPKE-2010, pp. 1-6.  Beijing China. 2010.
-
-Xing Zhang, Yan Song, A.C.Fang. "How Well Conditional Random Fields Can be Used in Novel Term Recognition." In Proceedings of the 24th Pacific Asia Conference on Language, Information and Computation (PACLIC-2010), pp. 583-592.  Sendai, Japan. 2010. (Best student paper).
-
-Yan Song, Chunyu Kit and Hai Zhao. "Reranking with multiple features for better transliteration." In NEWS-2010, pp. 62-65. Uppsala, Sweden. 2010.
-
-Hai Zhao, Yan Song and Chunyu Kit. "How Large a Corpus Do We Need: Statistical Method Versus Rule-based Method." In LREC-2010, pp. 1672-1677. Valletta, Malta. 2010.
-
-Cong Hui, Hai Zhao, Yan Song, Bao-Liang Lu. "An empirical study on development set selection strategy for machine translation learning." In WMT-2010, pp. 1191-1200. Uppsala, Sweden. 2010.
-
-Yan Song, Chunyu Kit. "Does joint decoding really outperform cascade processing in English-to-Chinese transliteration generation? The role of syllabification." In ICMLC-2010, pp. 3323-3328. Qingdao, China. 2010.
-
-Yan Song and Chunyu Kit.  "PCFG parsing with CRF tagging for head recognition." In Proceedings of CIPS-ParsEval-2009, pp.133-137. Beijing China.  2009.
-
-Yan Song, Dongfeng Cai, Guiping Zhang, Hai Zhao. "An Approach to Chinese Word Segmentation based on Character-Word Joint Decoding." In Journal of Software, 2009, Volume 20 (9), pp. 2236-2376.
-
-Yan Song, Chunyu Kit and Xiao Chen. "Transliteration of Name Entity via Improved Statistical Translation on Character Sequences." In Proceedings of the 2009 ACL Named Entities Workshop: Shared Task on Transliteration (NEWS 2009), pp.57-60. Suntec, Singapore. 2009.
-
-Hai Zhao, Yan Song, Chunyu Kit, Guodong Zhou. "Cross Language Dependency Parsing using a Bilingual Lexicon." In ACL-2009, pp. 55-63. Suntec, Singapore. 2009.
-
-Yan Song, Chunyu Kit, Ruifeng Xu, Hai Zhao. "How Unsupervised Learning Affects Character Tagging based Chinese Word Segmentation: A Quantitative Investigation." In ICMLC-2009, pp. 3481-3486. Baoding, Hebei, China. 2009.
-
-Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computation." In CNCCL-2007, pp. 416-421. Dalian,China. 2007.
-
-
-
 # Done
 
 ## 2022
@@ -91,25 +37,22 @@ Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computa
 
 ## 2021
 
-Yuanhe Tian, Guimin Chen, Yan Song, and Xiang Wan. "Dependency-driven relation extraction with attentive graph convolutional networks." In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pp. 4458-4471. Online. 2021.
-
-
-Han Qin, Yuanhe Tian, and Yan Song. "Relation Extraction with Word Graphs from N-grams." In EMNLP-2021, pp.2860-2868. Online and Punta Cana, Dominican Republic. 2021.
-
-Han Qin, Guimin Chen, Yuanhe Tian, and Yan Song. "Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories." In EMNLP-2021, pp. 3942-3954. Online and Punta Cana, Dominican Republic. 2021.
-
-
-> : [](./paper/)
->> 
+> EMNLP: [Relation Extraction with Word Graphs from N-grams](./paper/2021.emnlp-main.228.pdf)
+>> Han Qin, Yuanhe Tian, and Yan Song
 >>
->> 
+>> ACE2005EN, SemEval 2010 Task 8 
+
+> EMNLP: [Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories](./paper/2021.emnlp-main.321.pdf)
+>> Han Qin, Guimin Chen, Yuanhe Tian, and Yan Song
+>>
+>> LAP14, REST14, TWITTER
 
 > ACL: [Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks](./paper/2021.acl-long.344v2.pdf)
 >> Yuanhe Tian, Guimin Chen, Yan Song, Xiang Wan
 >>
 >> ACE2005EN, SemEval 2010 Task 8
 
-> ACL: [Federated Chinese Word Segmentation with Global Character Associations](./paper/)
+> ACL: [Federated Chinese Word Segmentation with Global Character Associations](./paper/2021.findings-acl.376.pdf)
 >> Yuanhe Tian, Guimin Chen, Han Qin, Yan Song
 >>
 >> CTB7
@@ -333,3 +276,62 @@ Nan Wang, Yan Song, Fei Xia. "Coding Structures and Actions with the COSTA Schem
 Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Disease Phrase Matching with Adversarial Networks." In BioNLP-2018, pp. 137-141. Melbourne, Australia. 2018.
 
 Haisong Zhang, Zhangming Chan, Yan Song, Dongyan Zhao, Rui Yan. "When Less Is More: Using Less Context Information to Generate Better Utterances in Group Conversations." In NLPCC-2018, pp. 76-84. Hohhot, China. 2018.
+
+## 2017
+
+Yan Song, Chia-Jung Lee, Fei Xia. "Learning Word Representations with Regularization from Prior Knowledge." In CoNLL-2017, pp. 143–152. Vancouver, Canada. 2017.
+
+Yan Song, Chia-Jung Lee. 2017. "Learning User Embeddings from Emails." In EACL-2017, pp. 733-738. Valencia, Spain. 2017.
+
+Yan Song, Chia-Jung Lee. "Embedding Projection for Query Understanding." In WWW-2017, pp. 839-840. Perth, Australia. 2017.
+
+## 2011-2015
+
+Chang-Ning Huang, Yan Song. 2015. "Chinese CCGbank Construction from Tsinghua Chinese Treebank." In Journal of Chinese Linguistics Monograph Series, 2015, (25), pp. 274-311. 
+
+Yan Song and Fei Xia. "Modern Chinese Helps Archaic Chinese Processing: Finding and Exploiting the Shared Properties." In LREC-2014, pp. 3129-3136. Reykjavik, Iceland. 2014.
+
+Jingfei Du, Yan Song, Chi-Ho Li. "Perceptron-based Tagging of Query Boundaries for Chinese Query Segmentation." In WWW-2014, pp. 257-258. Seoul, Korea. 2014.
+
+Yan Song and Fei Xia. "A Common Case of Jekyll and Hyde: the Synergistic Effect of Using Divided Source Training Data for Feature Augmentation." In IJCNLP-2013, pp. 623-631. Nagoya, Japan. 2013.
+
+Xiaojun Quan, Chunyu Kit, Yan Song. "Non-Monotonic Sentence Alignment via Semisupervised Learning." In Proceedings of ACL-2013, pp. 622-630. Sofia, Bulgaria. 2013.
+
+Yan Song, Prescott Klassen, Fei Xia, Chunyu Kit. "Entropy-based Training Data Selection for Domain Adaptation." In COLING-2012, pp. 1191-1200. Mumbai, India. 2012.
+
+Yan Song, Fei Xia. "Using a Goodness Measurement for Domain Adaptation: A Case Study on Chinese Word Segmentation." In LREC-2012, pp. 3853-3860. Istanbul, Turkey. 2012.
+
+Yan Song, Chang-Ning Huang, Chunyu Kit. "Construction of Chinese CCGbank." In Journal of Chinese Information Processing, 2012, Volume 26(3), pp. 3-9.
+
+Chang-Ning Huang, Yan Song. "Chinese CCGbank Construction from Tsinghua Chinese Treebank." In Proceedings of the Roundtable Conference on Linguistic Corpus and Corpus Linguistics in the Chinese Context, pp. 274-311. Hong Kong, China. 2011.
+
+## 2010
+
+Bin Lu, Yan Song, Xing Zhang and Benjamin K. Tsou. "Learning Chinese Polarity Lexicons By Integration of Graph Models and Morphological Features." In Information Retrieval Technology (AIRS-2010). Lecture Notes in Computer Science, 2010, Volume 6458, pp. 466-477. 
+
+Xing Zhang, Yan Song, Alex Chengyu Fang. "Conditional Random Fields for Term Extraction." In KDIR-2010, pp. 414-417. Valencia, Spain. 2010.
+
+Xing Zhang, Yan Song, Alex Chengyu Fang. "Term recognition using conditional random fields." In NLPKE-2010, pp. 1-6.  Beijing China. 2010.
+
+Xing Zhang, Yan Song, A.C.Fang. "How Well Conditional Random Fields Can be Used in Novel Term Recognition." In Proceedings of the 24th Pacific Asia Conference on Language, Information and Computation (PACLIC-2010), pp. 583-592.  Sendai, Japan. 2010. (Best student paper).
+
+Yan Song, Chunyu Kit and Hai Zhao. "Reranking with multiple features for better transliteration." In NEWS-2010, pp. 62-65. Uppsala, Sweden. 2010.
+
+Hai Zhao, Yan Song and Chunyu Kit. "How Large a Corpus Do We Need: Statistical Method Versus Rule-based Method." In LREC-2010, pp. 1672-1677. Valletta, Malta. 2010.
+
+Cong Hui, Hai Zhao, Yan Song, Bao-Liang Lu. "An empirical study on development set selection strategy for machine translation learning." In WMT-2010, pp. 1191-1200. Uppsala, Sweden. 2010.
+
+Yan Song, Chunyu Kit. "Does joint decoding really outperform cascade processing in English-to-Chinese transliteration generation? The role of syllabification." In ICMLC-2010, pp. 3323-3328. Qingdao, China. 2010.
+
+# 2009 and before
+Yan Song and Chunyu Kit.  "PCFG parsing with CRF tagging for head recognition." In Proceedings of CIPS-ParsEval-2009, pp.133-137. Beijing China.  2009.
+
+Yan Song, Dongfeng Cai, Guiping Zhang, Hai Zhao. "An Approach to Chinese Word Segmentation based on Character-Word Joint Decoding." In Journal of Software, 2009, Volume 20 (9), pp. 2236-2376.
+
+Yan Song, Chunyu Kit and Xiao Chen. "Transliteration of Name Entity via Improved Statistical Translation on Character Sequences." In Proceedings of the 2009 ACL Named Entities Workshop: Shared Task on Transliteration (NEWS 2009), pp.57-60. Suntec, Singapore. 2009.
+
+Hai Zhao, Yan Song, Chunyu Kit, Guodong Zhou. "Cross Language Dependency Parsing using a Bilingual Lexicon." In ACL-2009, pp. 55-63. Suntec, Singapore. 2009.
+
+Yan Song, Chunyu Kit, Ruifeng Xu, Hai Zhao. "How Unsupervised Learning Affects Character Tagging based Chinese Word Segmentation: A Quantitative Investigation." In ICMLC-2009, pp. 3481-3486. Baoding, Hebei, China. 2009.
+
+Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computation." In CNCCL-2007, pp. 416-421. Dalian,China. 2007.
