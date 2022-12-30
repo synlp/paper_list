@@ -218,17 +218,17 @@ Hongming Zhang, Yan Song, Yangqiu Song. "Incorporating Context and External Know
 
 Guoyin Wang, Yan Song, Dong Yu. "Learning Word Embeddings with Domain Awareness." In arXiv preprint:1906.03249.
 
-> : [](./paper/)
+> EMNLP: [](./paper/)
 >> 
 >>
 >> 
 
-> : [](./paper/)
+> ACL: [](./paper/)
 >> 
 >>
 >> 
 
-> : [](./paper/)
+> NAACL: [](./paper/)
 >> 
 >>
 >> 
@@ -277,13 +277,54 @@ Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Dise
 
 Haisong Zhang, Zhangming Chan, Yan Song, Dongyan Zhao, Rui Yan. "When Less Is More: Using Less Context Information to Generate Better Utterances in Group Conversations." In NLPCC-2018, pp. 76-84. Hohhot, China. 2018.
 
+> EMNLP: [](./paper/)
+>> 
+>>
+>> 
+
+> ACL: [](./paper/)
+>> 
+>>
+>> 
+
+> NAACL: [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+
 ## 2017
 
-Yan Song, Chia-Jung Lee, Fei Xia. "Learning Word Representations with Regularization from Prior Knowledge." In CoNLL-2017, pp. 143–152. Vancouver, Canada. 2017.
 
-Yan Song, Chia-Jung Lee. 2017. "Learning User Embeddings from Emails." In EACL-2017, pp. 733-738. Valencia, Spain. 2017.
+Yan Song, Chia-Jung Lee. 2017. "." In EACL-2017, pp. 733-738. Valencia, Spain. 2017.
 
-Yan Song, Chia-Jung Lee. "Embedding Projection for Query Understanding." In WWW-2017, pp. 839-840. Perth, Australia. 2017.
+Yan Song, Chia-Jung Lee. "." In WWW-2017, pp. 839-840. Perth, Australia. 2017.
+
+> CoNLL: [Learning Word Representations with Regularization from Prior Knowledge](./paper/K17-1016.pdf)
+>> Yan Song, Chia-Jung Lee, Fei Xia
+>>
+>> Wikipedia and newswire
+
+> EACL: [Learning User Embeddings from Emails](./paper/E17-2116.pdf)
+>> Yan Song, Chia-Jung Lee
+>>
+>> Enron
+
+> WWW: [Embedding Projection for Query Understanding](./paper/p839.pdf)
+>> Yan Song, Chia-Jung Lee
+>>
+>> ATIS, Wikipedia
+
 
 ## 2011-2015
 
@@ -305,6 +346,31 @@ Yan Song, Chang-Ning Huang, Chunyu Kit. "Construction of Chinese CCGbank." In Jo
 
 Chang-Ning Huang, Yan Song. "Chinese CCGbank Construction from Tsinghua Chinese Treebank." In Proceedings of the Roundtable Conference on Linguistic Corpus and Corpus Linguistics in the Chinese Context, pp. 274-311. Hong Kong, China. 2011.
 
+> EMNLP: [](./paper/)
+>> 
+>>
+>> 
+
+> ACL: [](./paper/)
+>> 
+>>
+>> 
+
+> NAACL: [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
 ## 2010
 
 Bin Lu, Yan Song, Xing Zhang and Benjamin K. Tsou. "Learning Chinese Polarity Lexicons By Integration of Graph Models and Morphological Features." In Information Retrieval Technology (AIRS-2010). Lecture Notes in Computer Science, 2010, Volume 6458, pp. 466-477. 
@@ -323,6 +389,32 @@ Cong Hui, Hai Zhao, Yan Song, Bao-Liang Lu. "An empirical study on development s
 
 Yan Song, Chunyu Kit. "Does joint decoding really outperform cascade processing in English-to-Chinese transliteration generation? The role of syllabification." In ICMLC-2010, pp. 3323-3328. Qingdao, China. 2010.
 
+> EMNLP: [](./paper/)
+>> 
+>>
+>> 
+
+> ACL: [](./paper/)
+>> 
+>>
+>> 
+
+> NAACL: [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+
 ## 2009 and before
 Yan Song and Chunyu Kit.  "PCFG parsing with CRF tagging for head recognition." In Proceedings of CIPS-ParsEval-2009, pp.133-137. Beijing China.  2009.
 
@@ -335,3 +427,28 @@ Hai Zhao, Yan Song, Chunyu Kit, Guodong Zhou. "Cross Language Dependency Parsing
 Yan Song, Chunyu Kit, Ruifeng Xu, Hai Zhao. "How Unsupervised Learning Affects Character Tagging based Chinese Word Segmentation: A Quantitative Investigation." In ICMLC-2009, pp. 3481-3486. Baoding, Hebei, China. 2009.
 
 Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computation." In CNCCL-2007, pp. 416-421. Dalian,China. 2007.
+
+> EMNLP: [](./paper/)
+>> 
+>>
+>> 
+
+> ACL: [](./paper/)
+>> 
+>>
+>> 
+
+> NAACL: [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
