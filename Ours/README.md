@@ -204,17 +204,13 @@ Hongming Zhang, Jiaxin Bai, Yan Song, Kun Xu, Changlong Yu, Yangqiu Song, Wilfre
 
 Miaofeng Liu, Yan Song, Hongbin Zou, Tong Zhang. "Reinforced Training Data Selection for Domain Adaptation." In ACL-2019, pp. 1957-1968. Florence, Italy. 2019.
 
-Hongming Zhang, Yan Song, Yangqiu Song, Dong Yu. "Knowledge-aware Pronoun Coreference Resolution." In ACL-2019, pp. 867-876. Florence, Italy. 2019.
+
 
 Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu. "Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network." In ACL-2019, pp. 3156-3161. Florence, Italy. 2019.
 
 Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He, Dong Yu. "Unsupervised Neural Aspect Extraction with Sememes." In IJCAI-2019, pp. 5123-5129. Macao, China. 2019.
 
 Zhaofeng Wu, Yan Song, Sicong Huang, Yuanhe Tian, and Fei Xia. "A Hybrid Approach to Biomedical Natural Language Inference." In BioNLP-2019, pp. 415-426. Florence, Italy. 2019.
-
-Yuanhe Tian, Weicheng Ma, Fei Xia, Yan Song.  "ChiMed: A Chinese Medical Corpus for Question Answering." In BioNLP-2019, pp. 250-260. Florence, Italy.  2019.
-
-Hongming Zhang, Yan Song, Yangqiu Song. "Incorporating Context and External Knowledge for Pronoun Coreference Resolution." In NAACL-2019, pp. 872-881. Minneapolis, Minnesota. 2019.
 
 Guoyin Wang, Yan Song, Dong Yu. "Learning Word Embeddings with Domain Awareness." In arXiv preprint:1906.03249.
 
@@ -228,15 +224,25 @@ Guoyin Wang, Yan Song, Dong Yu. "Learning Word Embeddings with Domain Awareness.
 >>
 >> 
 
-> NAACL: [](./paper/)
+> ACL: [](./paper/)
 >> 
 >>
 >> 
 
-> : [](./paper/)
->> 
+> ACL: [Knowledge-aware Pronoun Coreference Resolution](./paper/P19-1083.pdf)
+>> Hongming Zhang, Yan Song, Yangqiu Song, Dong Yu
 >>
->> 
+>> CoNLL, i2b2
+
+> NAACL: [Incorporating Context and External Knowledge for Pronoun Coreference Resolution](./paper/N19-1093.pdf)
+>> Hongming Zhang, Yan Song, Yangqiu Song
+>>
+>> CoNLL-2012
+
+> BioNLP: [ChiMed: A Chinese Medical Corpus for Question Answering](./paper/W19-5027.pdf)
+>> Yuanhe Tian, Weicheng Ma, Fei Xia, Yan Song
+>>
+>> Ask39
 
 > : [](./paper/)
 >> 
