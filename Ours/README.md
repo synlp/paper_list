@@ -195,10 +195,6 @@
 
 ## 2019
 
-Xintong Yu, Hongming Zhang, Yangqiu Song, Yan Song, Changshui Zhang. "What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues." In EMNLP-2019, pp. 5123-5132. Hong Kong, China. 2019.
-
-Ling Luo, Xiang Ao, Yan Song, Feiyang Pan, Min Yang, Qing He.  "Reading Like HER: Human Reading Inspired Extractive Summarization." In EMNLP-2019, pp. 3033-3043. Hong Kong, China. 2019.
-
 Hongming Zhang, Jiaxin Bai, Yan Song, Kun Xu, Changlong Yu, Yangqiu Song, Wilfred Ng, Dong Yu. "Multiplex Word Embeddings for Selectional Preference Acquisition." In EMNLP-2019, pp. 5247-5256. Hong Kong, China. 2019.
 
 
@@ -208,16 +204,16 @@ Miaofeng Liu, Yan Song, Hongbin Zou, Tong Zhang. "Reinforced Training Data Selec
 
 Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu. "Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network." In ACL-2019, pp. 3156-3161. Florence, Italy. 2019.
 
-Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He, Dong Yu. "Unsupervised Neural Aspect Extraction with Sememes." In IJCAI-2019, pp. 5123-5129. Macao, China. 2019.
 
-Zhaofeng Wu, Yan Song, Sicong Huang, Yuanhe Tian, and Fei Xia. "A Hybrid Approach to Biomedical Natural Language Inference." In BioNLP-2019, pp. 415-426. Florence, Italy. 2019.
-
-Guoyin Wang, Yan Song, Dong Yu. "Learning Word Embeddings with Domain Awareness." In arXiv preprint:1906.03249.
-
-> EMNLP: [](./paper/)
->> 
+> EMNLP: [What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues](./paper/D19-1516.pdf)
+>> Xintong Yu, Hongming Zhang, Yangqiu Song, Yan Song, Changshui Zhang
 >>
->> 
+>> VisPro(VisDial)
+
+> EMNLP: [Reading Like HER: Human Reading Inspired Extractive Summarization](./paper/D19-1300.pdf)
+>> Ling Luo, Xiang Ao, Yan Song, Feiyang Pan, Min Yang, Qing He
+>>
+>> CNN, DailyMail, combined CNN/DailyMail
 
 > ACL: [](./paper/)
 >> 
@@ -228,6 +224,16 @@ Guoyin Wang, Yan Song, Dong Yu. "Learning Word Embeddings with Domain Awareness.
 >> 
 >>
 >> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> IJCAI: [Unsupervised Neural Aspect Extraction with Sememes](./paper/0712.pdf)
+> Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He, Dong Yu
+>> 
+>>Citysearch corpus, BeerAdvocate
 
 > ACL: [Knowledge-aware Pronoun Coreference Resolution](./paper/P19-1083.pdf)
 >> Hongming Zhang, Yan Song, Yangqiu Song, Dong Yu
@@ -244,10 +250,15 @@ Guoyin Wang, Yan Song, Dong Yu. "Learning Word Embeddings with Domain Awareness.
 >>
 >> Ask39
 
-> : [](./paper/)
->> 
+> BioNLP: [A Hybrid Approach to Biomedical Natural Language Inference](./paper/W19-5044.pdf)
+>> Zhaofeng Wu, Yan Song, Sicong Huang, Yuanhe Tian, and Fei Xia
 >>
->> 
+>> MedNLI
+
+> preprint: [Learning Word Embeddings with Domain Awareness](./paper/1906.03249.pdf)
+>> Guoyin Wang, Yan Song, Dong Yu
+>>
+>> Wikipedia
 
 ## 2018
 Jing Li, Yan Song, Zhongyu Wei, KF Wong. "A Joint Model of Conversational Discourse and Latent Topics on Microblogs." Computational Linguistics, 2018, Volume 44 (4), pp. 719-754.
