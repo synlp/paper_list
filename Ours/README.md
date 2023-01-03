@@ -191,19 +191,12 @@
 >>
 >> DBP15K
 
-# To-be Done
-
 ## 2019
 
-Hongming Zhang, Jiaxin Bai, Yan Song, Kun Xu, Changlong Yu, Yangqiu Song, Wilfred Ng, Dong Yu. "Multiplex Word Embeddings for Selectional Preference Acquisition." In EMNLP-2019, pp. 5247-5256. Hong Kong, China. 2019.
-
-
-Miaofeng Liu, Yan Song, Hongbin Zou, Tong Zhang. "Reinforced Training Data Selection for Domain Adaptation." In ACL-2019, pp. 1957-1968. Florence, Italy. 2019.
-
-
-
-Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu. "Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network." In ACL-2019, pp. 3156-3161. Florence, Italy. 2019.
-
+> EMNLP: [Multiplex Word Embeddings for Selectional Preference Acquisition](./paper/D19-1528.pdf)
+>> Hongming Zhang, Jiaxin Bai, Yan Song, Kun Xu, Changlong Yu, Yangqiu Song, Wilfred Ng, Dong Yu
+>>
+>> English Wikipedia
 
 > EMNLP: [What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues](./paper/D19-1516.pdf)
 >> Xintong Yu, Hongming Zhang, Yangqiu Song, Yan Song, Changshui Zhang
@@ -215,25 +208,20 @@ Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu. "Cross-
 >>
 >> CNN, DailyMail, combined CNN/DailyMail
 
-> ACL: [](./paper/)
->> 
+> ACL: [Reinforced Training Data Selection for Domain Adaptation](./paper/P19-1189.pdf)
+>> Miaofeng Liu, Yan Song, Hongbin Zou, Tong Zhang
 >>
->> 
+>> SANCL 2012, [Multi-Domain Sentiment Dataset](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
 
-> ACL: [](./paper/)
->> 
+> ACL: [Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network](./paper/P19-1304.pdf)
+>> Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu
 >>
->> 
-
-> : [](./paper/)
->> 
->>
->> 
+>> DBP15K
 
 > IJCAI: [Unsupervised Neural Aspect Extraction with Sememes](./paper/0712.pdf)
 > Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He, Dong Yu
 >> 
->>Citysearch corpus, BeerAdvocate
+>> Citysearch corpus, BeerAdvocate
 
 > ACL: [Knowledge-aware Pronoun Coreference Resolution](./paper/P19-1083.pdf)
 >> Hongming Zhang, Yan Song, Yangqiu Song, Dong Yu
@@ -260,12 +248,12 @@ Kun Xu, Liwei Wang, Mo Yu, Yansong Feng, Yan Song, Zhiguo Wang, Dong Yu. "Cross-
 >>
 >> Wikipedia
 
+# To-be Done
+
 ## 2018
 Jing Li, Yan Song, Zhongyu Wei, KF Wong. "A Joint Model of Conversational Discourse and Latent Topics on Microblogs." Computational Linguistics, 2018, Volume 44 (4), pp. 719-754.
 
-Dingmin Wang, Yan Song, Jing Li, Jialong Han, and Haisong Zhang. 2018. "A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check." In EMNLP-2018, pp. 2517-2527. Brussels, Belgium. 2018.
-
-Jichuan Zeng, Jing Li, Yan Song, Cuiyun Gao, Michael R. Lyu, and Irwin King. "Topic Memory Networks for Short Text Classification." In EMNLP-2018, pp. 3120-3131. Brussels, Belgium. 2018.
+. "Topic Memory Networks for Short Text Classification." In EMNLP-2018, pp. 3120-3131. Brussels, Belgium. 2018.
 
 Juntao Li, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, and Rui Yan. "Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training." In EMNLP-2018, pp. 3890-3900. Brussels, Belgium. 2018.
 
@@ -293,6 +281,26 @@ Nan Wang, Yan Song, Fei Xia. "Coding Structures and Actions with the COSTA Schem
 Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Disease Phrase Matching with Adversarial Networks." In BioNLP-2018, pp. 137-141. Melbourne, Australia. 2018.
 
 Haisong Zhang, Zhangming Chan, Yan Song, Dongyan Zhao, Rui Yan. "When Less Is More: Using Less Context Information to Generate Better Utterances in Group Conversations." In NLPCC-2018, pp. 76-84. Hohhot, China. 2018.
+
+> EMNLP: [A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check](./paper/D18-1273.pdf)
+>> Dingmin Wang, Yan Song, Jing Li, Jialong Han, and Haisong Zhang
+>>
+>> 
+
+> EMNLP: [Topic Memory Networks for Short Text Classification](./paper/D18-1351.pdf)
+>> Jichuan Zeng, Jing Li, Yan Song, Cuiyun Gao, Michael R. Lyu, and Irwin King
+>>
+>> Snippets, TagMyNews, Twitter, Weibo
+
+> EMNLP: [](./paper/)
+>> 
+>>
+>> 
+
+> EMNLP: [](./paper/)
+>> 
+>>
+>> 
 
 > EMNLP: [](./paper/)
 >> 
