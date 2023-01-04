@@ -253,15 +253,6 @@
 ## 2018
 Jing Li, Yan Song, Zhongyu Wei, KF Wong. "A Joint Model of Conversational Discourse and Latent Topics on Microblogs." Computational Linguistics, 2018, Volume 44 (4), pp. 719-754.
 
-
-. "." In EMNLP-2018, pp. 3890-3900. Brussels, Belgium. 2018.
-
-. "." In EMNLP-2018, pp. 4088–4097. Brussels, Belgium. 2018.
-
-. "." In -2018, pp. 4368-4374. Stockholm, Sweden. 2018.
-
-. "." In IJCAI-2018, pp. 4375-4381. Stockholm, Sweden. 2018.
-
 Jialong Han, Yan Song, Xin Zhao, Shuming Shi, Haisong Zhang. "hyperdoc2vec: Distributed Representations of Hypertext Documents." In ACL-2018, pp. 2384-2394. Melbourne, Australia. 2018.
 
 Yingyi Zhang, Jing Li, Yan Song,Chengzhi Zhang. "Encoding Conversation Context for Neural Keyphrase Extraction from Microblog Posts." In NAACL-2018, pp. 1676-1686. New Orleans, Louisiana. 2018.
