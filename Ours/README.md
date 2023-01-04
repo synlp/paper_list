@@ -253,15 +253,14 @@
 ## 2018
 Jing Li, Yan Song, Zhongyu Wei, KF Wong. "A Joint Model of Conversational Discourse and Latent Topics on Microblogs." Computational Linguistics, 2018, Volume 44 (4), pp. 719-754.
 
-. "Topic Memory Networks for Short Text Classification." In EMNLP-2018, pp. 3120-3131. Brussels, Belgium. 2018.
 
-Juntao Li, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, and Rui Yan. "Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training." In EMNLP-2018, pp. 3890-3900. Brussels, Belgium. 2018.
+. "." In EMNLP-2018, pp. 3890-3900. Brussels, Belgium. 2018.
 
-Xiuying Chen, Shen Gao, Chongyang Tao, Yan Song, Dongyan Zhao, and Rui Yan. "Iterative Document Representation Learning Towards Summarization with Polishing." In EMNLP-2018, pp. 4088–4097. Brussels, Belgium. 2018.
+. "." In EMNLP-2018, pp. 4088–4097. Brussels, Belgium. 2018.
 
-Yan Song, Shuming Shi. "Complementary Learning of Word Embeddings." In IJCAI-2018, pp. 4368-4374. Stockholm, Sweden. 2018.
+. "." In -2018, pp. 4368-4374. Stockholm, Sweden. 2018.
 
-Yan Song,Shuming Shi, Jing Li. "Joint Learning Embeddings for Chinese Words and their Components via Ladder Structured Networks." In IJCAI-2018, pp. 4375-4381. Stockholm, Sweden. 2018.
+. "." In IJCAI-2018, pp. 4375-4381. Stockholm, Sweden. 2018.
 
 Jialong Han, Yan Song, Xin Zhao, Shuming Shi, Haisong Zhang. "hyperdoc2vec: Distributed Representations of Hypertext Documents." In ACL-2018, pp. 2384-2394. Melbourne, Australia. 2018.
 
@@ -280,8 +279,6 @@ Nan Wang, Yan Song, Fei Xia. "Coding Structures and Actions with the COSTA Schem
 
 Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Disease Phrase Matching with Adversarial Networks." In BioNLP-2018, pp. 137-141. Melbourne, Australia. 2018.
 
-Haisong Zhang, Zhangming Chan, Yan Song, Dongyan Zhao, Rui Yan. "When Less Is More: Using Less Context Information to Generate Better Utterances in Group Conversations." In NLPCC-2018, pp. 76-84. Hohhot, China. 2018.
-
 > EMNLP: [A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check](./paper/D18-1273.pdf)
 >> Dingmin Wang, Yan Song, Jing Li, Jialong Han, and Haisong Zhang
 >>
@@ -292,20 +289,25 @@ Haisong Zhang, Zhangming Chan, Yan Song, Dongyan Zhao, Rui Yan. "When Less Is Mo
 >>
 >> Snippets, TagMyNews, Twitter, Weibo
 
-> EMNLP: [](./paper/)
->> 
+> EMNLP: [Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training](./paper/D18-1423.pdf)
+>> Juntao Li, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, and Rui Yan
 >>
->> 
+>> PTD, PSD
 
-> EMNLP: [](./paper/)
->> 
+> EMNLP: [Iterative Document Representation Learning Towards Summarization with Polishing](./paper/D18-1442.pdf)
+>> Xiuying Chen, Shen Gao, Chongyang Tao, Yan Song, Dongyan Zhao, and Rui Yan
 >>
->> 
+>> CNN/Dailymail
 
-> EMNLP: [](./paper/)
->> 
+> IJCAI: [Complementary Learning of Word Embeddings](./paper/0607.pdf)
+>> Yan Song, Shuming Shi
 >>
->> 
+>> Wikipedia
+
+> IJCAI: [Joint Learning Embeddings for Chinese Words and their Components via Ladder Structured Networks](./paper/0608.pdf)
+>> Yan Song, Shuming Shi, Jing Li
+>>
+>> PD98, Chinese Wikipedia
 
 > ACL: [](./paper/)
 >> 
@@ -317,10 +319,10 @@ Haisong Zhang, Zhangming Chan, Yan Song, Dongyan Zhao, Rui Yan. "When Less Is Mo
 >>
 >> 
 
-> : [](./paper/)
->> 
+> NLPCC: [When Less Is More: Using Less Context Information to Generate Better Utterances in Group Conversations](./paper/978-3-319-99495-6_7.pdf)
+>> Haisong Zhang, Zhangming Chan, Yan Song, Dongyan Zhao, Rui Yan
 >>
->> 
+>> Ubuntu Corpus
 
 > : [](./paper/)
 >> 
