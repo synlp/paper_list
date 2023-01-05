@@ -251,13 +251,6 @@
 # To-be Done
 
 ## 2018
-Jing Li, Yan Song, Zhongyu Wei, KF Wong. "A Joint Model of Conversational Discourse and Latent Topics on Microblogs." Computational Linguistics, 2018, Volume 44 (4), pp. 719-754.
-
-Jialong Han, Yan Song, Xin Zhao, Shuming Shi, Haisong Zhang. "hyperdoc2vec: Distributed Representations of Hypertext Documents." In ACL-2018, pp. 2384-2394. Melbourne, Australia. 2018.
-
-Yingyi Zhang, Jing Li, Yan Song,Chengzhi Zhang. "Encoding Conversation Context for Neural Keyphrase Extraction from Microblog Posts." In NAACL-2018, pp. 1676-1686. New Orleans, Louisiana. 2018.
-
-Yan Song, Shuming Shi, Jing Li, Haisong Zhang. "Directional Skip-Gram: Explicitly Distinguishing Left and Right Context for Word Embeddings" In NAACL-2018, pp. 175-180. New Orleans, Louisiana. 2018.
 
 Jing Li, Yan Song, Haisong Zhang, Shuming Shi.  "A Manually Annotated Chinese Corpus for Non-task-oriented Dialogue Systems." In arXiv preprint:1805.05542.
 
@@ -300,20 +293,40 @@ Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Dise
 >>
 >> PD98, Chinese Wikipedia
 
-> ACL: [](./paper/)
->> 
+> ACL: [hyperdoc2vec: Distributed Representations of Hypertext Documents](./paper/P18-1222.pdf)
+>> Jialong Han, Yan Song, Xin Zhao, Shuming Shi, Haisong Zhang
 >>
->> 
+>> NIPS, ACL anthology, DBLP
 
-> NAACL: [](./paper/)
->> 
+> NAACL: [Encoding Conversation Context for Neural Keyphrase Extraction from Microblog Posts](./paper/N18-1151.pdf)
+>> Yingyi Zhang, Jing Li, Yan Song,Chengzhi Zhang
 >>
->> 
+>> Twitter, Weibo
+
+> NAACL: [Directional Skip-Gram: Explicitly Distinguishing Left and Right Context for Word Embeddings](./paper/N18-2028.pdf)
+>> Yan Song, Shuming Shi, Jing Li, Haisong Zhang
+>>
+>> Wikipedia
 
 > NLPCC: [When Less Is More: Using Less Context Information to Generate Better Utterances in Group Conversations](./paper/978-3-319-99495-6_7.pdf)
 >> Haisong Zhang, Zhangming Chan, Yan Song, Dongyan Zhao, Rui Yan
 >>
 >> Ubuntu Corpus
+
+> Computational Linguistics: [A Joint Model of Conversational Discourse and Latent Topics on Microblogs](./paper/1809.03690.pdf)
+>> Jing Li, Yan Song, Zhongyu Wei, KF Wong
+>>
+>> Twitter, Weibo
+
+> : [](./paper/)
+>> 
+>>
+>> 
+
+> : [](./paper/)
+>> 
+>>
+>> 
 
 > : [](./paper/)
 >> 
@@ -322,11 +335,6 @@ Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Dise
 
 
 ## 2017
-
-
-Yan Song, Chia-Jung Lee. 2017. "." In EACL-2017, pp. 733-738. Valencia, Spain. 2017.
-
-Yan Song, Chia-Jung Lee. "." In WWW-2017, pp. 839-840. Perth, Australia. 2017.
 
 > CoNLL: [Learning Word Representations with Regularization from Prior Knowledge](./paper/K17-1016.pdf)
 >> Yan Song, Chia-Jung Lee, Fei Xia
