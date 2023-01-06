@@ -218,7 +218,7 @@
 >> DBP15K
 
 > IJCAI: [Unsupervised Neural Aspect Extraction with Sememes](./paper/0712.pdf)
-> Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He, Dong Yu
+>> Ling Luo, Xiang Ao, Yan Song, Jinyao Li, Xiaopeng Yang, Qing He, Dong Yu
 >> 
 >> Citysearch corpus, BeerAdvocate
 
