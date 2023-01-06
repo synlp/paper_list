@@ -248,20 +248,23 @@
 >>
 >> Wikipedia
 
-# To-be Done
-
 ## 2018
 
-Jing Li, Yan Song, Haisong Zhang, Shuming Shi.  "A Manually Annotated Chinese Corpus for Non-task-oriented Dialogue Systems." In arXiv preprint:1805.05542.
+> LREC: [Constructing a Chinese Medical Conversation Corpus Annotated with Conversational Structures and Actions](./paper/L18-1464.pdf)
+>> Nan Wang, Yan Song, Fei Xia
+>>
+>> AMed(self-construct corpus)
 
-Nan Wang, Yan Song, Fei Xia. "Constructing a Chinese Medical Conversation Corpus Annotated with Conversational Structures and Actions." In LREC-2018, pp. 2933-2936. Miyazaki, Japan. 2018.
+> BioNLP: [Domain Adaptation for Disease Phrase Matching with Adversarial Networks](./paper/W18-2315.pdf)
+>> Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song
+>>
+>> ICD10DATA, MIMIC
 
-Yan Song, Shuming Shi, Jing Li, and Haisong Zhang. "Directional skip-gram: Explicitly distinguishing left and right context for word embeddings." In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 175-180. New Orleans, Louisiana. 2018.
 
-
-Nan Wang, Yan Song, Fei Xia. "Coding Structures and Actions with the COSTA Scheme in Medical Conversations." In BioNLP-2018, pp. 76-86. Melbourne, Australia. 2018.
-
-Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Disease Phrase Matching with Adversarial Networks." In BioNLP-2018, pp. 137-141. Melbourne, Australia. 2018.
+> BioNLP: [Coding Structures and Actions with the COSTA Scheme in Medical Conversations](./paper/W18-2309.pdf)
+>> Nan Wang, Yan Song, Fei Xia
+>>
+>> self-construct corpus
 
 > EMNLP: [A Hybrid Approach to Automatic Corpus Generation for Chinese Spelling Check](./paper/D18-1273.pdf)
 >> Dingmin Wang, Yan Song, Jing Li, Jialong Han, and Haisong Zhang
@@ -303,8 +306,8 @@ Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Dise
 >>
 >> Twitter, Weibo
 
-> NAACL: [Directional Skip-Gram: Explicitly Distinguishing Left and Right Context for Word Embeddings](./paper/N18-2028.pdf)
->> Yan Song, Shuming Shi, Jing Li, Haisong Zhang
+> NAACL: [Directional skip-gram: Explicitly distinguishing left and right context for word embeddings](./paper/N18-2028_2.pdf)
+>> Yan Song, Shuming Shi, Jing Li, and Haisong Zhang
 >>
 >> Wikipedia
 
@@ -318,20 +321,10 @@ Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Dise
 >>
 >> Twitter, Weibo
 
-> : [](./paper/)
->> 
+> preprint: [A Manually Annotated Chinese Corpus for Non-task-oriented Dialogue Systems](./paper/1805.05542v1.pdf)
+>> Jing Li, Yan Song, Haisong Zhang, Shuming Shi
 >>
->> 
-
-> : [](./paper/)
->> 
->>
->> 
-
-> : [](./paper/)
->> 
->>
->> 
+>> Tieba, Zhidao, Douban, Weibo
 
 
 ## 2017
@@ -351,7 +344,7 @@ Miaofeng Liu, Jialong Han, Haisong Zhang, Yan Song.  "Domain Adaptation for Dise
 >>
 >> ATIS, Wikipedia
 
-
+# To-be Done
 ## 2011-2015
 
 Chang-Ning Huang, Yan Song. 2015. "Chinese CCGbank Construction from Tsinghua Chinese Treebank." In Journal of Chinese Linguistics Monograph Series, 2015, (25), pp. 274-311. 
