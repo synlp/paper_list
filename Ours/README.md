@@ -103,12 +103,6 @@
 
 ## 2020  
 
-> ACL: [Improving Chinese Word Segmentation with Wordhood Memory Networks](./paper/2020.acl-main.734.pdf)
->> Yuanhe Tian, Yan Song, Fei Xia, Tong Zhang, Yonggang Wang  
->> 
->> SIGHAN2005, CTB6
-
-
 > EMNLP: [ZEN: Pre-training Chinese Text Encoder Enhanced by N-gram Representations](./paper/1911.00720.pdf) 
 >> Shizhe Diao, Jiaxin Bai, Yan Song, Tong Zhang, and Yonggang Wang 
 >> 
@@ -175,6 +169,11 @@
 >>
 >> OntoNotes 4.0, OntoNotes 5.0, Resume NER, WNUT 2016 NER, WNUT 2017, Weibo NER
 
+
+> ACL: [Improving Chinese Word Segmentation with Wordhood Memory Networks](./paper/2020.acl-main.734.pdf)
+>> Yuanhe Tian, Yan Song, Fei Xia, Tong Zhang, Yonggang Wang  
+>> 
+>> SIGHAN2005, CTB6
 
 > ACL: [Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge](./paper/2020.acl-main.735.pdf)
 >> Yuanhe Tian, Yan Song, Xiang Ao, Fei Xia, Xiaojun Quan, Tong Zhang and Yonggang Wang
