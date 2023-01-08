@@ -346,19 +346,13 @@
 # To-be Done
 ## 2011-2015
 
-Chang-Ning Huang, Yan Song. 2015. "Chinese CCGbank Construction from Tsinghua Chinese Treebank." In Journal of Chinese Linguistics Monograph Series, 2015, (25), pp. 274-311. 
-
-Yan Song and Fei Xia. "Modern Chinese Helps Archaic Chinese Processing: Finding and Exploiting the Shared Properties." In LREC-2014, pp. 3129-3136. Reykjavik, Iceland. 2014.
 
 Jingfei Du, Yan Song, Chi-Ho Li. "Perceptron-based Tagging of Query Boundaries for Chinese Query Segmentation." In WWW-2014, pp. 257-258. Seoul, Korea. 2014.
 
 Yan Song and Fei Xia. "A Common Case of Jekyll and Hyde: the Synergistic Effect of Using Divided Source Training Data for Feature Augmentation." In IJCNLP-2013, pp. 623-631. Nagoya, Japan. 2013.
 
-Xiaojun Quan, Chunyu Kit, Yan Song. "Non-Monotonic Sentence Alignment via Semisupervised Learning." In Proceedings of ACL-2013, pp. 622-630. Sofia, Bulgaria. 2013.
-
 Yan Song, Prescott Klassen, Fei Xia, Chunyu Kit. "Entropy-based Training Data Selection for Domain Adaptation." In COLING-2012, pp. 1191-1200. Mumbai, India. 2012.
 
-Yan Song, Fei Xia. "Using a Goodness Measurement for Domain Adaptation: A Case Study on Chinese Word Segmentation." In LREC-2012, pp. 3853-3860. Istanbul, Turkey. 2012.
 
 Yan Song, Chang-Ning Huang, Chunyu Kit. "Construction of Chinese CCGbank." In Journal of Chinese Information Processing, 2012, Volume 26(3), pp. 3-9.
 
@@ -369,25 +363,30 @@ Chang-Ning Huang, Yan Song. "Chinese CCGbank Construction from Tsinghua Chinese 
 >>
 >> 
 
-> ACL: [](./paper/)
->> 
+> ACL: [Non-Monotonic Sentence Alignment via Semisupervised Learning](./paper/P13-1061.pdf)
+>> Xiaojun Quan, Chunyu Kit, Yan Song
 >>
->> 
+>> BLIS
 
 > NAACL: [](./paper/)
 >> 
 >>
 >> 
 
-> : [](./paper/)
->> 
+> JCL: [Chinese CCGbank Construction from Tsinghua Chinese Treebank](_pdf not found_)
+>> Chang-Ning Huang, Yan Song
 >>
 >> 
 
-> : [](./paper/)
->> 
+> LREC: [Modern Chinese Helps Archaic Chinese Processing: Finding and Exploiting the Shared Properties](./paper/138_Paper.pdf)
+>> Yan Song and Fei Xia
 >>
->> 
+>> HNZ, CTB7
+
+> LREC: [Using a Goodness Measurement for Domain Adaptation: A Case Study on Chinese Word Segmentation](./paper/973_Paper.pdf)
+>> Yan Song, Fei Xia
+>>
+>> CTB, Bakeoff-3 
 
 ## 2010
 
