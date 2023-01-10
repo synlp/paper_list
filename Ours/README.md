@@ -346,30 +346,28 @@
 # To-be Done
 ## 2011-2015
 
-
-Jingfei Du, Yan Song, Chi-Ho Li. "Perceptron-based Tagging of Query Boundaries for Chinese Query Segmentation." In WWW-2014, pp. 257-258. Seoul, Korea. 2014.
-
-Yan Song and Fei Xia. "A Common Case of Jekyll and Hyde: the Synergistic Effect of Using Divided Source Training Data for Feature Augmentation." In IJCNLP-2013, pp. 623-631. Nagoya, Japan. 2013.
-
-Yan Song, Prescott Klassen, Fei Xia, Chunyu Kit. "Entropy-based Training Data Selection for Domain Adaptation." In COLING-2012, pp. 1191-1200. Mumbai, India. 2012.
-
-
-Yan Song, Chang-Ning Huang, Chunyu Kit. "Construction of Chinese CCGbank." In Journal of Chinese Information Processing, 2012, Volume 26(3), pp. 3-9.
-
-Chang-Ning Huang, Yan Song. "Chinese CCGbank Construction from Tsinghua Chinese Treebank." In Proceedings of the Roundtable Conference on Linguistic Corpus and Corpus Linguistics in the Chinese Context, pp. 274-311. Hong Kong, China. 2011.
-
-> EMNLP: [](./paper/)
->> 
+> COLING: [Entropy-based Training Data Selection for Domain Adaptation](./paper/C12-2116.pdf)
+>> Yan Song, Prescott Klassen, Fei Xia, Chunyu Kit
 >>
->> 
+>> CTB 7.0
 
 > ACL: [Non-Monotonic Sentence Alignment via Semisupervised Learning](./paper/P13-1061.pdf)
 >> Xiaojun Quan, Chunyu Kit, Yan Song
 >>
 >> BLIS
 
-> NAACL: [](./paper/)
+> WWW: [Perceptron-based Tagging of Query Boundaries for Chinese Query Segmentation](_pdf not found_)
+>> Jingfei Du, Yan Song, Chi-Ho Li
+>>
 >> 
+
+> IJCNLP: [A Common Case of Jekyll and Hyde: the Synergistic Effect of Using Divided Source Training Data for Feature Augmentation](./paper/I13-1071.pdf)
+>> Yan Song and Fei Xia
+>>
+>> CTB7
+
+> JCIP: [Construction of Chinese CCGbank](_pdf not found_)
+>> Yan Song, Chang-Ning Huang, Chunyu Kit
 >>
 >> 
 
