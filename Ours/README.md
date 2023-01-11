@@ -390,39 +390,39 @@
 
 Bin Lu, Yan Song, Xing Zhang and Benjamin K. Tsou. "Learning Chinese Polarity Lexicons By Integration of Graph Models and Morphological Features." In Information Retrieval Technology (AIRS-2010). Lecture Notes in Computer Science, 2010, Volume 6458, pp. 466-477. 
 
-Xing Zhang, Yan Song, Alex Chengyu Fang. "Conditional Random Fields for Term Extraction." In KDIR-2010, pp. 414-417. Valencia, Spain. 2010.
+ "." In -2010, pp. 414-417. Valencia, Spain. 2010.
 
 Xing Zhang, Yan Song, Alex Chengyu Fang. "Term recognition using conditional random fields." In NLPKE-2010, pp. 1-6.  Beijing China. 2010.
 
 Xing Zhang, Yan Song, A.C.Fang. "How Well Conditional Random Fields Can be Used in Novel Term Recognition." In Proceedings of the 24th Pacific Asia Conference on Language, Information and Computation (PACLIC-2010), pp. 583-592.  Sendai, Japan. 2010. (Best student paper).
 
-Yan Song, Chunyu Kit and Hai Zhao. "Reranking with multiple features for better transliteration." In NEWS-2010, pp. 62-65. Uppsala, Sweden. 2010.
+. "." In -2010, pp. 62-65. Uppsala, Sweden. 2010.
 
-Hai Zhao, Yan Song and Chunyu Kit. "How Large a Corpus Do We Need: Statistical Method Versus Rule-based Method." In LREC-2010, pp. 1672-1677. Valletta, Malta. 2010.
+. "." In -2010, pp. 1672-1677. Valletta, Malta. 2010.
 
-Cong Hui, Hai Zhao, Yan Song, Bao-Liang Lu. "An empirical study on development set selection strategy for machine translation learning." In WMT-2010, pp. 1191-1200. Uppsala, Sweden. 2010.
+. "." In -2010, pp. 1191-1200. Uppsala, Sweden. 2010.
 
 Yan Song, Chunyu Kit. "Does joint decoding really outperform cascade processing in English-to-Chinese transliteration generation? The role of syllabification." In ICMLC-2010, pp. 3323-3328. Qingdao, China. 2010.
 
-> EMNLP: [](./paper/)
->> 
+> KDIR: [Conditional Random Fields for Term Extraction](_pdf not found_)
+>> Xing Zhang, Yan Song, Alex Chengyu Fang
 >>
 >> 
 
-> ACL: [](./paper/)
->> 
+> NEWS: [Reranking with multiple features for better transliteration](./paper/W10-2409.pdf)
+>> Yan Song, Chunyu Kit and Hai Zhao
 >>
->> 
+>> NEWS2010
 
-> NAACL: [](./paper/)
->> 
+> LREC: [How Large a Corpus Do We Need: Statistical Method Versus Rule-based Method](./paper/199_Paper.pdf)
+>> Hai Zhao, Yan Song and Chunyu Kit
 >>
->> 
+>> Bakeoff-2006
 
-> : [](./paper/)
->> 
+> WMT: [An empirical study on development set selection strategy for machine translation learning](./paper/W10-2409.pdf)
+>> Cong Hui, Hai Zhao, Yan Song, Bao-Liang Lu
 >>
->> 
+>> europarl-v5, news-commentary10
 
 > : [](./paper/)
 >> 
