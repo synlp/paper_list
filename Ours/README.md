@@ -388,21 +388,8 @@
 
 ## 2010
 
-Bin Lu, Yan Song, Xing Zhang and Benjamin K. Tsou. "Learning Chinese Polarity Lexicons By Integration of Graph Models and Morphological Features." In Information Retrieval Technology (AIRS-2010). Lecture Notes in Computer Science, 2010, Volume 6458, pp. 466-477. 
 
- "." In -2010, pp. 414-417. Valencia, Spain. 2010.
-
-Xing Zhang, Yan Song, Alex Chengyu Fang. "Term recognition using conditional random fields." In NLPKE-2010, pp. 1-6.  Beijing China. 2010.
-
-Xing Zhang, Yan Song, A.C.Fang. "How Well Conditional Random Fields Can be Used in Novel Term Recognition." In Proceedings of the 24th Pacific Asia Conference on Language, Information and Computation (PACLIC-2010), pp. 583-592.  Sendai, Japan. 2010. (Best student paper).
-
-. "." In -2010, pp. 62-65. Uppsala, Sweden. 2010.
-
-. "." In -2010, pp. 1672-1677. Valletta, Malta. 2010.
-
-. "." In -2010, pp. 1191-1200. Uppsala, Sweden. 2010.
-
-Yan Song, Chunyu Kit. "Does joint decoding really outperform cascade processing in English-to-Chinese transliteration generation? The role of syllabification." In ICMLC-2010, pp. 3323-3328. Qingdao, China. 2010.
+. "." In -2010, pp. 3323-3328. Qingdao, China. 2010.
 
 > KDIR: [Conditional Random Fields for Term Extraction](_pdf not found_)
 >> Xing Zhang, Yan Song, Alex Chengyu Fang
@@ -424,10 +411,25 @@ Yan Song, Chunyu Kit. "Does joint decoding really outperform cascade processing 
 >>
 >> europarl-v5, news-commentary10
 
-> : [](./paper/)
->> 
+> AIRS: [Learning Chinese Polarity Lexicons By Integration of Graph Models and Morphological Features](./paper/978-3-642-17187-1_45.pdf)
+>> Bin Lu, Yan Song, Xing Zhang and Benjamin K. Tsou
 >>
->> 
+>> The Lexicon of Chinese Positive Words, The Lexicon of Chinese Negative Words
+
+> NLPKE: [Term recognition using conditional random fields](https://ieeexplore.ieee.org/document/5587809)
+>> Xing Zhang; Yan Song; Alex Chengyu Fang
+>>
+>> MeSH
+
+> PACLIC: [How Well Conditional Random Fields Can be Used in Novel Term Recognition](./paper/Y10-1067.pdf)
+>> Xing Zhang, Yan Song, A.C.Fang
+>>
+>> MeSH
+
+> ICMLC: [Does joint decoding really outperform cascade processing in English-to-Chinese transliteration generation? The role of syllabification.](https://ieeexplore.ieee.org/document/5580674)
+>> Yan Song, Chunyu Kit
+>>
+>> NEWS2009
 
 
 ## 2009 and before
