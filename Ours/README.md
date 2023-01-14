@@ -343,7 +343,6 @@
 >>
 >> ATIS, Wikipedia
 
-# To-be Done
 ## 2011-2015
 
 > COLING: [Entropy-based Training Data Selection for Domain Adaptation](./paper/C12-2116.pdf)
@@ -388,9 +387,6 @@
 
 ## 2010
 
-
-. "." In -2010, pp. 3323-3328. Qingdao, China. 2010.
-
 > KDIR: [Conditional Random Fields for Term Extraction](_pdf not found_)
 >> Xing Zhang, Yan Song, Alex Chengyu Fang
 >>
@@ -433,39 +429,34 @@
 
 
 ## 2009 and before
-Yan Song and Chunyu Kit.  "PCFG parsing with CRF tagging for head recognition." In Proceedings of CIPS-ParsEval-2009, pp.133-137. Beijing China.  2009.
 
-Yan Song, Dongfeng Cai, Guiping Zhang, Hai Zhao. "An Approach to Chinese Word Segmentation based on Character-Word Joint Decoding." In Journal of Software, 2009, Volume 20 (9), pp. 2236-2376.
 
-Yan Song, Chunyu Kit and Xiao Chen. "Transliteration of Name Entity via Improved Statistical Translation on Character Sequences." In Proceedings of the 2009 ACL Named Entities Workshop: Shared Task on Transliteration (NEWS 2009), pp.57-60. Suntec, Singapore. 2009.
-
-Hai Zhao, Yan Song, Chunyu Kit, Guodong Zhou. "Cross Language Dependency Parsing using a Bilingual Lexicon." In ACL-2009, pp. 55-63. Suntec, Singapore. 2009.
-
-Yan Song, Chunyu Kit, Ruifeng Xu, Hai Zhao. "How Unsupervised Learning Affects Character Tagging based Chinese Word Segmentation: A Quantitative Investigation." In ICMLC-2009, pp. 3481-3486. Baoding, Hebei, China. 2009.
-
-Yan Song, Guiping Zhang, Dongfeng Cai. "N-gram based Sentence Similarity Computation." In CNCCL-2007, pp. 416-421. Dalian,China. 2007.
-
-> EMNLP: [](./paper/)
->> 
+> CIPS: [PCFG parsing with CRF tagging for head recognition](_pdf not found_)
+>> Yan Song and Chunyu Kit
 >>
 >> 
 
-> ACL: [](./paper/)
->> 
+> JoS: [An Approach to Chinese Word Segmentation based on Character-Word Joint Decoding](./paper/一种基于字词联合解码的中文分词方法.pdf)
+>> Yan Song, Dongfeng Cai, Guiping Zhang, Hai Zhao
 >>
->> 
+>> SIGHAN Bakeoff3
 
-> NAACL: [](./paper/)
->> 
+> NEWS: [Transliteration of Name Entity via Improved Statistical Translation on Character Sequences](./paper/W09-3511.pdf)
+>> Yan Song, Chunyu Kit and Xiao Chen
 >>
->> 
+>> NEWS2009
 
-> : [](./paper/)
->> 
+> ACL: [Cross Language Dependency Parsing using a Bilingual Lexicon](./paper/P09-1007.pdf)
+>> Hai Zhao, Yan Song, Chunyu Kit, Guodong Zhou
 >>
->> 
+>> PTB, CTB
 
-> : [](./paper/)
->> 
+> ICMLC: [How Unsupervised Learning Affects Character Tagging based Chinese Word Segmentation: A Quantitative Investigation](./paper/ICMLC_2007.pdf)
+>> Yan Song, Chunyu Kit, Ruifeng Xu, Hai Zhao
+>>
+>> SIGHAN Bakeoff3
+
+> CNCCL: [N-gram based Sentence Similarity Computation](_pdf not found_)
+>> Yan Song, Guiping Zhang, Dongfeng Cai
 >>
 >> 
