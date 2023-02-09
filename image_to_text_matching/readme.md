@@ -1,6 +1,6 @@
 ## 2022
 
-> [Cross-modal graph matching network for image- text retrieval](./paper/ACM Transactions on Multimedia Computing2022-Cross-modal Graph Matching Network for Image-text Retrieval.pdf)
+> ACM Trans. Multimedia Comput. Commun. 2022:[111](./paper/ACM Transactions on Multimedia Computing2022-Cross-modal Graph Matching Network for Image-text Retrieval.pdf)
 >
 > > Authors : Yuhao Cheng, Xiaoguang Zhu, Jiuchao Qian,Fei Wen, and Peilin Liu
 
