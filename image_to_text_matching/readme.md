@@ -16,7 +16,7 @@
 >
 > > Authors: Kun Zhang, Zhendong Mao, Quan Wang, and Yongdong Zhang
 
-> ICMR2022:[Constructing phrase-level semantic labels to form multi-grained supervi- sion for image-text retrieval](./paper/ICMR2022-Constructing_phrase-level_semantic_labels_to_form_multi-grained_supervi- sion_for_image-text_retriev.pdf)
+> ICMR2022:[Constructing phrase-level semantic labels to form multi-grained supervi- sion for image-text retrieval](./paper/ICMR2022-Constructing_phrase-level_semantic_labels.pdf)
 >
 > > Authors : Zhihao Fan, Zhongyu Wei, Zejun Li, Siyuan Wang, Hai- jun Shan, Xuanjing Huang, and Jianqing Fan
 
@@ -66,7 +66,7 @@
 
 ## 2019
 
-> ICCV2019:[Visual semantic reasoning for image- text matching](./paper/ICCV2019-Visual_semantic_reasoning_for_image- text_matching.pdf)
+> ICCV2019:[Visual semantic reasoning for image- text matching](./paper/ICCV2019-Visual_semantic_reasoning.pdf)
 >
 > > Authors : Kunpeng Li, Yulun Zhang, K. Li, Yuanyuan Li, and Yun Raymond Fu
 
