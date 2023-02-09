@@ -1,6 +1,6 @@
 ## 2022
 
-> ACM Trans. Multimedia Comput. Commun. 2022：[Cross-modal graph matching network for image- text retrieval](./papers/ACM Transactions on Multimedia Computing2022-Cross-modal Graph Matching Network for Image-text Retrieval.pdf)
+> ACM Trans. Multimedia Comput. Commun. 2022:[Cross-modal graph matching network for image- text retrieval](./papers/ACM Transactions on Multimedia Computing2022-Cross-modal Graph Matching Network for Image-text Retrieval.pdf)
 >
 > > Authors : Yuhao Cheng, Xiaoguang Zhu, Jiuchao Qian,Fei Wen, and Peilin Liu
 
@@ -44,7 +44,7 @@
 >
 > > Authors : Hui Chen, Guiguang Ding, Xudong Liu, Zijia Lin, Ji Liu, and Jungong Han
 
-> CVPR2020:[ Graph structured network for image-text matching](./papers/CVPR2020-Graph Structured_Network_for_Image-Text_Matching.pdf)
+> CVPR2020:[Graph structured network for image-text matching](./papers/CVPR2020-Graph Structured_Network_for_Image-Text_Matching.pdf)
 >
 > > Authors : Chunxiao Liu, Zhendong Mao, Tianzhu Zhang, Hongtao Xie, Bin Wang, and Yongdong Zhang
 
