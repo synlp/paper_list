@@ -8,7 +8,7 @@
 >
 > > Authors : Kunpeng Li, Yulun Zhang, Kai Li, Yuanyuan Li, and Yun Raymond Fu
 
-> *IEEE* *transactions* *on image processing :* *a publication of the IEEE Signal Pro- cessing Society*, PP, 2022.[Decoupled cross-modal phrase-attention network for image-sentence matching](./paper/IEEE_transactions_on_image processing2022-Decoupled_Cross-modal_Phrase-Attention_Network_for_Image-Sentence_Matching.pdf)
+> *IEEE* *transactions* *on image processing :* *a publication of the IEEE Signal Pro- cessing Society*, PP, 2022.[Decoupled cross-modal phrase-attention network for image-sentence matching](./paper/IEEE_transactions_on_image_processing2022-Decoupled_Cross-modal_Phrase-Attention_Network_for_Image-Sentence_Matching.pdf)
 >
 > > Authors : Zhan Shi, Tianzhu Zhang, Xiaoyan Wei, Feng Wu, and Yongdong Zhang
 
@@ -16,7 +16,7 @@
 >
 > > Authors: Kun Zhang, Zhendong Mao, Quan Wang, and Yongdong Zhang
 
-> ICMR2022:[ Constructing phrase-level semantic labels to form multi-grained supervi- sion for image-text retrieval](./paper/ICMR2022-Constructing_phrase-level_semantic_labels_to_form_multi-grained_supervi- sion_for_image-text_retriev.pdf)
+> ICMR2022:[Constructing phrase-level semantic labels to form multi-grained supervi- sion for image-text retrieval](./paper/ICMR2022-Constructing_phrase-level_semantic_labels_to_form_multi-grained_supervi- sion_for_image-text_retriev.pdf)
 >
 > > Authors : Zhihao Fan, Zhongyu Wei, Zejun Li, Siyuan Wang, Hai- jun Shan, Xuanjing Huang, and Jianqing Fan
 
@@ -30,7 +30,7 @@
 >
 > > Authors : Jiacheng Chen, Hexiang Hu, Hao Wu, Yuning Jiang, and Chang Lian Wang
 
-> SIGIR2021:[Dynamic modality interaction modeling for image-text retrieval](./paper/SIGIR ’21-Dynamic_modality_interaction_modeling_for_image-text_retrieval.pdf)
+> SIGIR2021:[Dynamic modality interaction modeling for image-text retrieval](./paper/SIGIR21-Dynamic_modality_interaction_modeling_for_image-text_retrieval.pdf)
 >
 > > Authors : Leigang Qu, Meng Liu, Jianlong Wu, Zan Gao, and Liqiang Nie. 
 
@@ -52,11 +52,11 @@
 >
 > > Authors : Leigang Qu, Meng Liu, Da Cao, Liqiang Nie, and Qi Tian
 
-> ECCV2020:[Consensus-aware visual-semantic embedding for image-text matching](./paper/ECCV2020-Consensus-Aware Visual-Semantic_Embedding.pdf)
+> ECCV2020:[Consensus-aware visual-semantic embedding for image-text matching](./paper/ECCV2020-Consensus-Aware_Visual-Semantic_Embedding.pdf)
 >
 > > Authors :Haoran Wang, Ying Zhang, Zhong Ji, Yanwei Pang, and Lingyun Ma
 
-> WACV2020:[Cross-modal scene graph matching for relationship- aware image-text retrieval.](./paper/WACV2020-Cross-modal_Scene_Graph_Matching_for_Relationship-aware Image-Text_Retrievalpdf)
+> WACV2020:[Cross-modal scene graph matching for relationship- aware image-text retrieval.](./paper/WACV2020-Cross-modal_Scene_Graph_Matching_for_Relationship-aware_Image-Text_Retrieval.pdf)
 >
 > > Authors : Sijin Wang, Ruiping Wang, Ziwei Yao, S. Shan, and Xilin Chen
 
