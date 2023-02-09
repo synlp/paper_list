@@ -1,6 +1,6 @@
 ## 2022
 
-> ACM Trans. Multimedia Comput. Commun. 2022:[111](./paper/ACM Transactions on Multimedia Computing2022-Cross-modal Graph Matching Network for Image-text Retrieval.pdf)
+> ACM Trans. Multimedia Comput. Commun. 2022:[Cross-modal graph matching network for image- text retrieval](./paper/CVPR_2022_paper_Negative-Aware_Attention_Framework_for_Image-Text_Matching.pdf)
 >
 > > Authors : Yuhao Cheng, Xiaoguang Zhu, Jiuchao Qian,Fei Wen, and Peilin Liu
 
