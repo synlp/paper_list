@@ -20,6 +20,14 @@
 >
 > > Authors : Zhihao Fan, Zhongyu Wei, Zejun Li, Siyuan Wang, Hai- jun Shan, Xuanjing Huang, and Jianqing Fan
 
+> SIGIR2022:[Where Does the Performance Improvement Come From? -- A Reproducibility Concern about Image-Text Retrieval](./paper/SIGIR2022-Where_Does_the_Performance_Improvement_Come_From--A_Reproducibility_Concern_about_Image-Text_Retrieval.pdf)
+>
+> > Authors : Jun Rao, Fei Wang, Liang Ding, Shuhan Qi, Yibing Zhan, Weifeng Liu, Dacheng Tao
+
+> AAAI2022:[Show Your Faith: Cross-Modal Confidence-Aware Network for Image-Text Matching (CMCAN)](./paper/AAAI2022-Show-your-faith_cross-modal_confidence-aware_network_for_image-text_matching.pdf)
+>
+> > Authors: Huatian Zhang, Zhendong Mao, Kun Zhang, Yongdong Zhang
+
 ## 2021
 
 > CVPR2021:[Learning the best pooling strategy for visual semantic embedding](./paper/CVPR2021-Learning_the_Best_Pooling_Strategy_for_Visual_Semantic_Embedding.pdf)
