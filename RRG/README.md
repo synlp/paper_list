@@ -1,15 +1,15 @@
 ## 2022
 
-> #### arXiv:2209.00796, 2022: [Diffusion models: A comprehensive survey of methods and applications]
+> #### ACL-findings, 2022: [Reinforced Cross-modal Alignment for Radiology Report Generation](https://aclanthology.org/2022.findings-acl.38/)
 >
->> Yang, Ling and Zhang, Zhilong and Song, Yang and Hong, Shenda and Xu, Runsheng and Zhao, Yue and Shao, Yingxia and Zhang, Wentao and Cui, Bin and Yang, Ming-Hsuan
+>> Han Qin, Yan Song
 >>
 
 ## 2021
 
-> #### Advances in Neural Information Processing Systems, 2021: [Diffusion Models Beat GANs on Image Synthesis](paper/diffusion-models-beat-gans-on-image-synthesis-Paper.pdf)
+> #### ACL, 2021: [Cross-modal Memory Networks for Radiology Report Generation](https://aclanthology.org/2021.acl-long.459/)
 >
->> Dhariwal, Prafulla and Nichol, Alexander
+>> Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan
 >>
 
 ## 2020
