@@ -1,6 +1,6 @@
 ## 2022
 
-> #### arXiv:2209.00796, 2022: [Diffusion models: A comprehensive survey of methods and applications](paper/DiffusionmodelsAcomprehensivesurveyofmethodsandapplications.pdf)
+> #### arXiv:2209.00796, 2022: [Diffusion models: A comprehensive survey of methods and applications]
 >
 >> Yang, Ling and Zhang, Zhilong and Song, Yang and Hong, Shenda and Xu, Runsheng and Zhao, Yue and Shao, Yingxia and Zhang, Wentao and Cui, Bin and Yang, Ming-Hsuan
 >>
@@ -14,7 +14,7 @@
 
 ## 2020
 
-> #### Advances in Neural Information Processing Systems, 2020: [Denoising Diffusion Probabilistic Models](paper/denoising-diffusion-probabilistic-models-Paper.pdf)
+> #### EMNLP, 2020: [Generating Radiology Reports via Memory-driven Transformer](https://aclanthology.org/2020.emnlp-main.112/)
 >
->> Ho, Jonathan and Jain, Ajay and Abbeel, Pieter
+>> Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan
 >>
