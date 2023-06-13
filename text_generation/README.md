@@ -1,3 +1,22 @@
+## 2023
+
+> #### ICLR, 2023: [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](paper/DiffuSeq%20Sequence%20to%20Sequence%20Text%20Generation%20with%20Diffusion%20Models.pdf)
+>
+>> Shansan Gong, Mukai Li, Jiangtao Feng, Zhiyong Wu, Lingpeng Kong
+>>
+
+> #### ACL, 2023: [DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](paper/DiffusionBERT%20Improving%20Generative%20Masked%20Language%20Models%20with%20Diffusion%20Models.pdf)
+>
+>> Zhengfu He, Tianxiang Sun, Kuanning Wang, Xuanjing Huang, Xipeng Qiu
+>>
+
+## 2022
+
+> #### Advances in Neural Information Processing Systems, 2022: [Diffusion-LM Improves Controllable Text Generation](paper/Diffusion-LM%20Improves%20Controllable%20Text%20Generation.pdf)
+>
+>> Xiang Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori B. Hashimoto
+>>
+
 ## 2019
 
 >#### Advances in Neural Information Processing Systems, 2019: [Code Generation as a Dual Task of Code Summarization](paper/8Code%20Generation%20as%20a%20Dual%20Task%20of%20Code%20Summarization.pdf)
