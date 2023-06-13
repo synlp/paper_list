@@ -10,11 +10,6 @@
 >> Shansan Gong, Mukai Li, Jiangtao Feng, Zhiyong Wu, Lingpeng Kong
 >>
 
-> #### Advances in Neural Information Processing Systems, 2022: [Diffusion-LM Improves Controllable Text Generation](paper/Li%20%E7%AD%89%20-%202022%20-%20Diffusion-LM%20Improves%20Controllable%20Text%20Generation.pdf)
->
->> Xiang Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori B. Hashimoto
->>
-
 > #### ACL, 2023: [DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](paper/He%20%E7%AD%89%20-%202022%20-%20DiffusionBERT%20Improving%20Generative%20Masked%20Languag.pdf)
 >
 >> Zhengfu He, Tianxiang Sun, Kuanning Wang, Xuanjing Huang, Xipeng Qiu
@@ -26,6 +21,11 @@
 >>
 
 ## 2022
+
+> #### Advances in Neural Information Processing Systems, 2022: [Diffusion-LM Improves Controllable Text Generation](paper/Li%20%E7%AD%89%20-%202022%20-%20Diffusion-LM%20Improves%20Controllable%20Text%20Generation.pdf)
+>
+>> Xiang Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori B. Hashimoto
+>>
 
 > #### arXiv:2209.00796, 2022: [Diffusion models: A comprehensive survey of methods and applications](paper/DiffusionmodelsAcomprehensivesurveyofmethodsandapplications.pdf)
 >
