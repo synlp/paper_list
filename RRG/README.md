@@ -5,6 +5,11 @@
 >>Kaveri Kale, Pushpak Bhattacharyya, Kshitij Jadhav
 >>
 
+> #### CVPR, 2023: [Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation](./paper/Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-ray_Report.pdf)
+>
+>>Mingjie Li, Bingqian Li, Zicong Chen, Haokun Lin, Xiaodan Liang, Xiaojun Chang
+>>
+
 ## 2022
 
 > #### ACL-findings, 2022: [Reinforced Cross-modal Alignment for Radiology Report Generation](https://aclanthology.org/2022.findings-acl.38/)
