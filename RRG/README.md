@@ -1,3 +1,10 @@
+## 2023
+
+> #### ACL-findings, 2023: [Replace and Report: NLP Assisted Radiology Report Generation](https://aclanthology.org/2022.findings-acl.38/)
+>
+>>Kaveri Kale, Pushpak Bhattacharyya, Kshitij Jadhav
+>>
+
 ## 2022
 
 > #### ACL-findings, 2022: [Reinforced Cross-modal Alignment for Radiology Report Generation](https://aclanthology.org/2022.findings-acl.38/)
