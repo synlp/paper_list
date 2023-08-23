@@ -1,6 +1,6 @@
 ## 2023
 
-> #### ACL-findings, 2023: [Replace and Report: NLP Assisted Radiology Report Generation](https://arxiv.org/pdf/2306.17180.pdf)
+> #### ACL-findings, 2023: [Replace and Report: NLP Assisted Radiology Report Generation](./paper/Replace_and_Report_NLP_Assisted_Radiology_Report_Generation.pdf)
 >
 >>Kaveri Kale, Pushpak Bhattacharyya, Kshitij Jadhav
 >>
@@ -10,6 +10,11 @@
 > #### ACL-findings, 2022: [Reinforced Cross-modal Alignment for Radiology Report Generation](https://aclanthology.org/2022.findings-acl.38/)
 >
 >> Han Qin, Yan Song
+>>
+
+> #### IEEE-TMI, 2022: [Automated Radiographic Report Generation Purely on Transformer: A Multicriteria Supervised Approach](./paper/Automated_Radiographic_Report_Generation_Purely_on_Transformer_A_Multicriteria_Supervised_Approach.pdf)
+>
+>> Zhanyu Wang, Hongwei Han, Lei Wang
 >>
 
 ## 2021
