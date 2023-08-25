@@ -2,12 +2,14 @@
 
 > #### ACL-findings, 2023: [Replace and Report: NLP Assisted Radiology Report Generation](./paper/Replace_and_Report_NLP_Assisted_Radiology_Report_Generation.pdf)
 >
->>Kaveri Kale, Pushpak Bhattacharyya, Kshitij Jadhav
+>> Kaveri Kale, Pushpak Bhattacharyya, Kshitij Jadhav
+>> IU X-RAY, MIMIC-CXR 
 >>
 
 > #### CVPR, 2023: [Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation](./paper/Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-ray_Report.pdf)
 >
->>Mingjie Li, Bingqian Li, Zicong Chen, Haokun Lin, Xiaodan Liang, Xiaojun Chang
+>> Mingjie Li, Bingqian Li, Zicong Chen, Haokun Lin, Xiaodan Liang, Xiaojun Chang
+>> IU X-RAY, MIMIC-CXR
 >>
 
 ## 2022
@@ -20,7 +22,8 @@
 > #### IEEE-TMI, 2022: [Automated Radiographic Report Generation Purely on Transformer: A Multicriteria Supervised Approach](./paper/Automated_Radiographic_Report_Generation_Purely_on_Transformer_A_Multicriteria_Supervised_Approach.pdf)
 >
 >> Zhanyu Wang, Hongwei Han, Lei Wang
->>
+>> IU X-RAY, MIMIC-CXR
+>> 
 
 ## 2021
 
