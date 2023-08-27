@@ -5,6 +5,11 @@
 | SemEval-2010 Task 8 |0.910| [REDN](./paper/Downstream Model Design of Pre-trained Language Model for Relation Extraction Task.pdf) |
 
 
+## 2021
+>#### : [Supervised Relation Classification as Two-way Span-Prediction](./2010.04829.pdf)
+>> TACRED, SemEval, Challenge relation extraction (CRE)
+>> Amir DN Cohen, Shachar Rosenman, Yoav Goldberg
+
 
 ## 2019
 
