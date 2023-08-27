@@ -20,3 +20,6 @@
 >>Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein
 
 
+>#### Asian Journal of Distance Education, Oct. 2023: [Generative artificial intelligence (AI) powered conversational educational agents: The inevitable paradigm shift](paper/718-Article-Text-2814-1-10-20230331.pdf)
+>
+>>Aras Bozkurt
