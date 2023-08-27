@@ -130,7 +130,7 @@
 
 ## 2019
 
-> #### AAAI, 2019: [Knowledge-Driven Encode, Retrieve, Paraphrase for Medical Image Report Generation](./paper/AAAI_2019_Knowledge-Driven Encode, Retrieve,.pdf)
+> #### AAAI, 2019: [Knowledge-Driven Encode, Retrieve, Paraphrase for Medical Image Report Generation](./paper/AAAI_2019_Knowledge-Driven%20Encode%2C%20Retrieve%2C.pdf.pdf)
 >
 >> Christy Y. Li, Xiaodan Liang, Zhiting Hu, Eric P. Xing
 >
