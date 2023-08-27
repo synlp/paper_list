@@ -1,8 +1,24 @@
 # Code Generation Paper List
 
+## 2023
+
+>#### ICASSP-2023: [PAGE: A Position-Aware Graph-Based Model for Emotion Cause Entailment in Conversation](./paper/PAGE_A_Position-Aware_Graph-Based_Model_for_Emotion_Cause_Entailment_in_Conversation.pdf)
+>> RECCON  
+>> Xiaojie Gu, Renze Lou, Lin Sun, Shangxin Li
+
+
+
+## 2022
+
+>#### ArXiv: [Neutral Utterances are Also Causes: Enhancing Conversational Causal Emotion Entailment with Social Commonsense Knowledge](./paper/2205.00759.pdf)
+>> RECCON  
+>> Jiangnan Li, Fandong Meng, Zheng Lin, Rui Liu, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou
+
+
+
 ## 2021
 
->#### ACL 2021: [Recognizing Emotion Cause in Conversations](./paper/2012.11820.pdf)
+>#### Cognitive Computation: [Recognizing Emotion Cause in Conversations](./paper/2012.11820.pdf)
 >
 >> Author: Soujanya Poria , Navonil Majumder , Devamanyu Hazarika , Deepanway Ghosal , Rishabh Bhardwaj , Samson Yu Bai Jian ,  Pengfei Hong , Romila Ghosh , Abhinaba Roy , Niyati Chhaya ,  Alexander Gelbukh , Rada Mihalcea.
 >
