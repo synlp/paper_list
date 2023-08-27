@@ -1,7 +1,43 @@
 
 # Done
 
+## 2023
+
+> ACL-2023: [End-to-end Aspect-based Sentiment Analysis with Combinatory Categorial Grammar](./paper/2023.findings-acl.859.pdf)
+>> Yuanhe Tian, Weidong Chen, Bo Hu, Yan Song, Fei Xia  
+>> restaurant, laptop, Twitter
+
+
+> WWW-2023: [Text Style Transfer with Contrastive Transfer Pattern Mining](./paper/2023.acl-long.439.pdf)
+>> Jingxuan Han, Quan Wang, Licheng Zhang, Weidong Chen, Yan Song, Zhendong Mao  
+>> Yelp, IMDb
+
+
+
+> WWW-2023: [Hashtag-Guided Low-Resource Tweet Classification](./paper/Fu_Learning_Semantic_Relationship_Among_Instances_for_Image-Text_Matching_CVPR_2023_paper.pdf)
+>> Shizhe Diao, Sedrick Scott Keh, Liangming Pan, Zhiliang Tian, Yan Song, Tong Zhang  
+>> TweetEval
+
+
+> CVPR-2023: [Learning Semantic Relationship Among Instances for Image-Text Matching](./paper/Fu_Learning_Semantic_Relationship_Among_Instances_for_Image-Text_Matching_CVPR_2023_paper.pdf)
+>> Zheren Fu, Zhendong Mao, Yan Song, Yongdong Zhang  
+>> Flickr30K, MS-COCO
+
+
 ## 2022
+
+
+> EMNLP-2022: [Combinatory Grammar Tells Underlying Relevance among Entities](./paper/2022.findings-emnlp.424.pdf)
+>> Yuanhe Tian, Yan Song  
+>> SemEval, ACE05
+
+> EMNLP-2022: [Improving English-Arabic Transliteration with Phonemic Memories](./paper/2022.findings-emnlp.238.pdf)
+>> Yuanhe Tian, Renze Lou, Xiangyu Pang, Lianxi Wang, Shengyi Jiang, Yan Song  
+>> EANames
+
+> ACL-2022: [Reinforced Cross-modal Alignment for Radiology Report Generation](./paper/2022.findings-acl.38.pdf)
+>> Han Qin, Yan Song  
+>> IU X-RAY, MIMIC-CXR 
 
 > COLING: [Chinese Couplet Generation with Syntactic Information](./paper/2022.coling-1.560.pdf)
 >> Yan Song
