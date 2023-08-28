@@ -1,5 +1,12 @@
 ## 2023
 
+> #### ACL (Long Papers), 2023: [ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning](./paper/ACL_2023_ORGAN.pdf)
+>
+>> Wenjun Hou, Kaishuai Xu, Yi Cheng, Wenjie Li, Jiang Liu
+>
+>> Datasets: IU X-RAY, MIMIC-CXR 
+>>
+
 > #### ACL-findings, 2023: [Replace and Report: NLP Assisted Radiology Report Generation](./paper/Replace_and_Report_NLP_Assisted_Radiology_Report_Generation.pdf)
 >
 >> Kaveri Kale, Pushpak Bhattacharyya, Kshitij Jadhav
@@ -72,6 +79,13 @@
 >> Datasets: IU X-RAY, MIMIC-CXR
 >>
 
+> #### EMNLP-findings, 2022: [Improving the Factual Correctness of Radiology Report Generation with Semantic Rewards](./paper/EMNLP_findings_2022_Improving_the_Factual_correctness_of_Radiology_Report_Generation_with_Semantic_Rewards.pdf)
+>
+>> Jean-Benoit Delbrouck, Pierre Chambon, Christian Bluethgen, Emily Tsai, Omar Almusa, Curtis P. Langlotz
+>
+>> Datasets: IU X-RAY, MIMIC-CXR 
+>>
+
 > #### EMNLP, 2022: [Factual Accuracy is not Enough: Planning Consistent Description Order for Radiology Report Generation](./paper/EMNLP_2022_Factual%20Accuracy%20is%20not%20Enough%20Planning%20Consistent%20Description%20Order.pdf)
 >
 >> Toru Nishino, Yasuhide Miura, Tomoki Taniguchi, Tomoko Ohkuma, Yuki Suzuki, Shoji Kido, Noriyuki Tomiyama
@@ -93,11 +107,32 @@
 >> Datasets: IU X-RAY
 >>
 
-> #### CVPR, 2021: [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](./paper/CVPR_2021_Exploring%20and%20Distilling%20Posterior%20and%20Prior%20Knowledge%20for.pdf)
+> #### EMNLP-findings, 2021: [Progressive Transformer-Based Generation of Radiology Reports](./paper/EMNLP_findings_2021_Progressive_Transformer_based_Generation_of_Radiology_Reports.pdf)
+>
+>> Farhad Nooralahzadeh, Nicolas Perez Gonzales, Thomas Frauenfelder, Koji Fujimoto, Michael Krauthammer
+>
+>> Datasets: IU X-RAY, MIMIC-CXR
+>>
+
+> #### EMNLP-findings, 2021: [Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation](./paper/EMNLP_findings_2021_weakly_supervised_contrastive_learning_for_chest_x_ray_report_generation.pdf)
+>
+>> An Yan, Zexue He, Xing Lu, Jiang Du, Eric Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
+>
+>> Datasets: MIMIC-ABN, MIMIC-CXR
+>>
+
+> #### CVPR, 2021: [A Self-boosting Framework for Automated Radiographic Report Generation](./paper/CVPR_2021_Exploring%20and%20Distilling%20Posterior%20and%20Prior%20Knowledge%20for.pdf)
 >
 >> Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian zou
 >
 >> Datasets: IU X-RAY, MIMIC-CXR
+>>
+
+> #### CVPR, 2021: [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](./paper/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf)
+>
+>> Zhanyu Wang, Luping Zhou, Lei Wang
+>
+>> Datasets: IU X-RAY, COV-CTR
 >>
 
 > #### ICCV, 2021: [Visual-Textual Attentive Semantic Consistency for Medical Report Generation](./paper/ICCV_2021_Visual-Textual_Attentive_Semantic_Consistency_for_Medical_Report_Generation.pdf)
@@ -130,9 +165,25 @@
 
 ## 2019
 
+> #### ACL, 2019: [Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-Ray Reports](./paper/ACL_2019_show_describe_and_conclude_on_exploiting_the_structure_information_of_chest_x_ray_reports)
+>
+>> Baoyu Jing, Zeya Wang, Eric Xing
+>
+>> Datasets: IU X-RAY, CX-CHR
+>>
+
 > #### AAAI, 2019: [Knowledge-Driven Encode, Retrieve, Paraphrase for Medical Image Report Generation](./paper/AAAI_2019_Knowledge-Driven%20Encode%2C%20Retrieve%2C.pdf)
 >
 >> Christy Y. Li, Xiaodan Liang, Zhiting Hu, Eric P. Xing
 >
 >> Datasets: IU X-RAY, CX-CHR
+>>
+
+## 2018
+
+> #### ACL, 2018: [On the Automatic Generation of Medical Imaging Reports](./paper/ACL_2018_on_the_automatic_generation_of_medical_imaging_reports.pdf)
+>
+>> Baoyu Jing, Pengtao Xie, Eric P. Xing
+>
+>> Datasets: IU X-RAY, PEIR Gross
 >>
