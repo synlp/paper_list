@@ -14,3 +14,9 @@
 >> Hateful Memes,  Propaganda Memes, TamilMemes    
 
 
+## 2020
+
+>> NeurlPS-2020: [The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes](./paper/2005.04790v3)  
+>> Douwe Kiela, Hamed Firooz, Aravind Mohan, Vedanuj Goswami, Amanpreet Singh, Pratik Ringshia, Davide Testuggine  
+>> Hateful Memes 
+
