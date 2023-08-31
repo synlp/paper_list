@@ -63,7 +63,7 @@
 >> Datasets: IU X-RAY, COV-CTR, CX-CHR
 >>
 
-> #### WWW, 2023: [KGVL-BART: Knowledge Graph Augmented Visual Language BART for Radiology Report Generation](./paper/EACL_2023_KGVL_BART_Knowledge_Graph_Augmented_Visual_Language_BART_for_Radiology_Report_Generation.pdf)
+> #### EACL, 2023: [KGVL-BART: Knowledge Graph Augmented Visual Language BART for Radiology Report Generation](./paper/EACL_2023_KGVL_BART_Knowledge_Graph_Augmented_Visual_Language_BART_for_Radiology_Report_Generation.pdf)
 >
 >> Kaveri Kale, Pushpak Bhattacharyya, Milind Gune, Aditya Shetty, Rustom Lawyer
 >
