@@ -56,11 +56,18 @@
 >> Datasets: IU X-RAY, MIMIC-CXR
 >>
 
-> #### WWW, 2023: [Auxiliary signal‑guided knowledge encoder‑decoder  for medical report generation](./paper/WWW_2023_Auxiliary%20signal%E2%80%91guided%20knowledge%20encoder%20decoder%20.pdf)
+> #### WWW, 2023: [Auxiliary signal‑guided knowledge encoder‑decoder for medical report generation](./paper/WWW_2023_Auxiliary%20signal%E2%80%91guided%20knowledge%20encoder%20decoder%20.pdf)
 >
 >> Mingjie Li, Rui Liu, Fuyu Wang, Xiaojun Chang, Xiaodan Liang
 >
 >> Datasets: IU X-RAY, COV-CTR, CX-CHR
+>>
+
+> #### EACL, 2023: [KGVL-BART: Knowledge Graph Augmented Visual Language BART for Radiology Report Generation](./paper/EACL_2023_KGVL_BART_Knowledge_Graph_Augmented_Visual_Language_BART_for_Radiology_Report_Generation.pdf)
+>
+>> Kaveri Kale, Pushpak Bhattacharyya, Milind Gune, Aditya Shetty, Rustom Lawyer
+>
+>> Datasets: IU X-RAY
 >>
 
 ## 2022
@@ -91,6 +98,13 @@
 >> Toru Nishino, Yasuhide Miura, Tomoki Taniguchi, Tomoko Ohkuma, Yuki Suzuki, Shoji Kido, Noriyuki Tomiyama
 >
 >> Datasets: JLiverCT, MIMIC-CXR
+>>
+
+> #### AACL, 2022: [Multimodal Generation of Radiology Reports using Knowledge-Grounded Extraction of Entities and Relations](./paper/AACL_2022_Multimodal_Generation_of_Radiology_Reports_using_Knowledge-Grounded.pdf)
+>
+>> Francesco Dalla Serra, William Clackett, Chaoyang Wang, Hamish MacKinnon, Fani Deligianni, Jeffrey Dalton, Alison Q O’Neil
+>
+>> Datasets: MIMIC-CXR
 >> 
 
 ## 2021
