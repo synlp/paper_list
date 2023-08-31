@@ -20,3 +20,10 @@
 >> Douwe Kiela, Hamed Firooz, Aravind Mohan, Vedanuj Goswami, Amanpreet Singh, Pratik Ringshia, Davide Testuggine  
 >> Hateful Memes 
 
+
+## 2020
+
+>> arXiv-2020: [Vilio: State-of-the-art Visio-Linguistic Models applied to Hateful Memes](./paper/2005.04790v3)  
+>> Niklas Muennighoff  
+>> Hateful Memes 
+
