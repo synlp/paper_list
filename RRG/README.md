@@ -135,14 +135,14 @@
 >> Datasets: MIMIC-ABN, MIMIC-CXR
 >>
 
-> #### CVPR, 2021: [A Self-boosting Framework for Automated Radiographic Report Generation](./paper/CVPR_2021_Exploring%20and%20Distilling%20Posterior%20and%20Prior%20Knowledge%20for.pdf)
+> #### CVPR, 2021: [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](./paper/CVPR_2021_Exploring%20and%20Distilling%20Posterior%20and%20Prior%20Knowledge%20for.pdf)
 >
 >> Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian zou
 >
 >> Datasets: IU X-RAY, MIMIC-CXR
 >>
 
-> #### CVPR, 2021: [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](./paper/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf)
+> #### CVPR, 2021: [A Self-boosting Framework for Automated Radiographic Report Generation](./paper/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf)
 >
 >> Zhanyu Wang, Luping Zhou, Lei Wang
 >
