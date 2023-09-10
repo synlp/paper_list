@@ -179,7 +179,7 @@
 
 ## 2019
 
-> #### ACL, 2019: [Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-Ray Reports](./paper/ACL_2019_show_describe_and_conclude_on_exploiting_the_structure_information_of_chest_x_ray_reports)
+> #### ACL, 2019: [Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-Ray Reports](./paper/ACL_2019_show_describe_and_conclude_on_exploiting_the_structure_information_of_chest_x_ray_reports.pdf)
 >
 >> Baoyu Jing, Zeya Wang, Eric Xing
 >
