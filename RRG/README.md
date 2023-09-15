@@ -174,7 +174,7 @@
 >
 >> Yixiao Zhang, Xiaosong Wang, Ziyue Xu, Qihang Yu, Alan Yuille, Daguang Xu
 >
->> Datasets: IU-RR
+>> Datasets: IU X-RAY
 >>
 
 ## 2019
