@@ -16,8 +16,5 @@
 >> 
 
 
->> arXiv-2023-10: [Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook](./paper/2310.10196.pdf) [url](https://arxiv.org/abs/2310.10196)  
->> Ming Jin, Qingsong Wen, Yuxuan Liang, Chaoli Zhang, Siqiao Xue, Xue Wang, James Zhang, Yi Wang, Haifeng Chen, Xiaoli Li, Shirui Pan, Vincent S. Tseng, Yu Zheng, Lei Chen, Hui Xiong  
->> 
 
 
