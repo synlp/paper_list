@@ -40,3 +40,9 @@
 >> arXiv-2023-6: [PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting](./paper/2210.08964.pdf) [url](https://arxiv.org/abs/2210.08964)  
 >> Hao Xue, Flora D. Salim    
 >> 
+
+
+>> arXiv-2023-6: [Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting](./paper/2306.11025.pdf) [url](https://arxiv.org/abs/2306.11025)  
+>> Xinli Yu, Zheng Chen, Yuan Ling, Shujing Dong, Zongyi Liu, Yanbin Lu    
+>> 
+
