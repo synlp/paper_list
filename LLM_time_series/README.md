@@ -16,5 +16,12 @@
 >> 
 
 
+>> arXiv-2023-10: [TimeGPT-1](./paper/2310.03589.pdf) [url](https://arxiv.org/abs/2310.03589)  
+>> Azul Garza, Max Mergenthaler-Canseco  
+>> 
 
+
+>> arXiv-2023-8: [LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs](./paper/2308.08469.pdf) [url](https://arxiv.org/abs/2308.08469)  
+>> Ching Chang, Wen-Chih Peng, Tien-Fu Chen  
+>> 
 
