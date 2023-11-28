@@ -21,7 +21,22 @@
 >> 
 
 
->> arXiv-2023-8: [LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs](./paper/2308.08469.pdf) [url](https://arxiv.org/abs/2308.08469)  
+>> arXiv-2023-10: [LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs](./paper/2308.08469.pdf) [url](https://arxiv.org/abs/2308.08469)  
 >> Ching Chang, Wen-Chih Peng, Tien-Fu Chen  
 >> 
 
+
+
+>> arXiv-2023-10: [TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting](./paper/2310.04948.pdf) [url](https://arxiv.org/abs/2310.04948)  
+>> Defu Cao, Furong Jia, Sercan O Arik, Tomas Pfister, Yixiang Zheng, Wen Ye, Yan Liu  
+>> 
+
+
+>> arXiv-2023-10: [Large Language Models Are Zero-Shot Time Series Forecasters](./paper/2310.07820.pdf) [url](https://arxiv.org/abs/2310.07820)  
+>> Nate Gruver, Marc Finzi, Shikai Qiu, Andrew Gordon Wilson    
+>> 
+
+
+>> arXiv-2023-6: [PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting](./paper/2210.08964.pdf) [url](https://arxiv.org/abs/2210.08964)  
+>> Hao Xue, Flora D. Salim    
+>> 
