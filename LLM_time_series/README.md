@@ -46,3 +46,18 @@
 >> Xinli Yu, Zheng Chen, Yuan Ling, Shujing Dong, Zongyi Liu, Yanbin Lu    
 >> 
 
+
+>> arXiv-2023-8: [TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series](./paper/2308.08241.pdf) [url](https://arxiv.org/abs/2308.08241)  
+>> Chenxi Sun, Yaliang Li, Hongyan Li, Shenda Hong    
+>> 
+
+
+>> arXiv-2023-10: [Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning](./paper/2305.16646.pdf) [url](https://arxiv.org/abs/2305.16646)  
+>> Xiaoming Shi, Siqiao Xue, Kangrui Wang, Fan Zhou, James Y. Zhang, Jun Zhou, Chenhao Tan, Hongyuan Mei    
+>> 
+
+
+>>  Advances in Geographic Information Systems-2022: [Leveraging language foundation models for human mobility forecasting](./paper/3557915.3561026.pdf) [url](https://dl.acm.org/doi/abs/10.1145/3557915.3561026)  
+>> Hao Xue, Bhanu Prakash Voutharoja, Flora D. Salim    
+>> 
+
