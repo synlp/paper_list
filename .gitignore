@@ -130,3 +130,10 @@ dmypy.json
 
 # .idea
 .idea/*
+.DS_Store
+agent/.DS_Store
+image-captioning/.DS_Store
+medical_NLP/.DS_Store
+multimodal_learning/.DS_Store
+RRG/.DS_Store
+.DS_Store
